@@ -1,0 +1,1001 @@
+Age,Sex,Employment_Type,Monthly_Income_INR,Existing_EMI_INR,CIBIL_Score,Loan_Amount_INR,Loan_Purpose,Housing_Type,Loan_Tenure_Months,Is_Default
+67,male,Skilled Employee,55254,8866,900,58450,Consumer Durable Loan,Self-Owned,6,0
+22,female,Skilled Employee,84238,35251,782,297550,Consumer Durable Loan,Self-Owned,48,1
+49,male,Unskilled Resident,16252,6631,765,104800,Education Loan,Self-Owned,12,1
+45,male,Skilled Employee,79764,22910,800,394100,Consumer Durable Loan,Family-Owned,42,0
+53,male,Skilled Employee,52173,13948,669,243500,Vehicle Loan,Family-Owned,24,0
+35,male,Unskilled Resident,19673,4561,747,452750,Education Loan,Family-Owned,36,0
+53,male,Skilled Employee,66698,19542,676,141750,Consumer Durable Loan,Self-Owned,24,0
+35,male,Highly Skilled,143682,23465,635,347400,Vehicle Loan,Rented,36,0
+61,male,Unskilled Resident,41726,16926,716,152950,Consumer Durable Loan,Self-Owned,12,0
+28,male,Highly Skilled,171317,27518,646,261700,Vehicle Loan,Self-Owned,30,0
+25,female,Skilled Employee,53051,13194,813,64750,Vehicle Loan,Rented,12,0
+24,female,Skilled Employee,79649,34207,651,215400,Business Loan,Rented,48,0
+22,female,Skilled Employee,46949,17397,749,78350,Consumer Durable Loan,Self-Owned,12,1
+60,male,Unskilled Resident,24521,5748,671,59950,Vehicle Loan,Self-Owned,24,0
+28,female,Skilled Employee,95393,21539,742,70150,Vehicle Loan,Rented,15,0
+32,female,Unskilled Resident,23017,3487,678,64100,Consumer Durable Loan,Self-Owned,24,0
+53,male,Skilled Employee,46941,16838,619,121200,Consumer Durable Loan,Self-Owned,24,0
+25,male,Skilled Employee,65934,10855,758,403600,Business Loan,Self-Owned,30,0
+44,female,Highly Skilled,113386,35124,701,628950,Vehicle Loan,Family-Owned,24,0
+31,male,Skilled Employee,99826,43787,742,171500,Consumer Durable Loan,Self-Owned,24,0
+48,male,Skilled Employee,50209,9180,685,106700,Vehicle Loan,Self-Owned,9,0
+44,male,Skilled Employee,57715,24144,613,132350,Consumer Durable Loan,Rented,6,1
+48,male,Unskilled Resident,43920,19651,806,112050,Vehicle Loan,Rented,10,1
+44,male,Skilled Employee,93413,15735,778,90200,Vehicle Loan,Self-Owned,12,0
+26,male,Skilled Employee,96800,40159,674,103450,Consumer Durable Loan,Self-Owned,10,0
+36,male,Unskilled Resident,24550,7483,725,68700,Consumer Durable Loan,Self-Owned,6,0
+39,male,Unskilled Resident,36499,15400,803,21300,Consumer Durable Loan,Self-Owned,6,0
+42,female,Skilled Employee,44637,14346,683,20450,Consumer Durable Loan,Rented,12,0
+34,male,Skilled Employee,44854,15637,695,120750,Consumer Durable Loan,Self-Owned,7,0
+63,male,Skilled Employee,92329,28911,739,341800,Business Loan,Self-Owned,60,0
+36,male,Skilled Employee,96882,39658,683,95650,Business Loan,Self-Owned,18,0
+27,male,Skilled Employee,83088,30756,788,201000,Consumer Durable Loan,Self-Owned,24,0
+30,male,Skilled Employee,91332,27982,706,293300,Vehicle Loan,Self-Owned,18,0
+57,male,Unskilled Resident,19892,8164,657,63200,Business Loan,Rented,12,1
+33,female,Highly Skilled,129811,29023,768,73700,Consumer Durable Loan,Self-Owned,12,0
+25,male,Unskilled Resident,31521,6216,628,237300,Consumer Durable Loan,Self-Owned,45,0
+31,male,Skilled Employee,95479,18916,881,305500,Education Loan,Family-Owned,48,0
+37,male,Skilled Employee,59856,14976,846,105000,Consumer Durable Loan,Self-Owned,18,0
+37,male,Skilled Employee,61833,13702,761,61250,Personal Loan,Self-Owned,10,0
+24,male,Skilled Employee,91984,39463,754,22900,Consumer Durable Loan,Self-Owned,9,0
+30,male,Highly Skilled,109963,19985,750,116650,Consumer Durable Loan,Self-Owned,30,0
+26,male,Skilled Employee,95123,34215,680,57900,Consumer Durable Loan,Self-Owned,12,1
+44,male,Unskilled Resident,42607,8809,743,310200,Home Renovation Loan,Self-Owned,18,0
+24,male,Skilled Employee,76932,31887,646,309350,Vehicle Loan,Rented,30,1
+58,female,Unskilled Resident,42169,18486,760,307150,Vehicle Loan,Family-Owned,48,0
+35,female,Highly Skilled,163477,47349,789,69650,Vehicle Loan,Self-Owned,11,0
+39,male,Skilled Employee,54388,22501,689,114950,Consumer Durable Loan,Self-Owned,36,1
+23,female,Unskilled,20569,3117,672,67600,Vehicle Loan,Rented,6,0
+39,male,Unskilled Resident,19300,7642,623,361400,Vehicle Loan,Self-Owned,11,1
+28,female,Skilled Employee,79037,17276,836,103650,Consumer Durable Loan,Self-Owned,12,0
+29,male,Unskilled Resident,18818,7952,678,116650,Consumer Durable Loan,Self-Owned,24,1
+30,male,Highly Skilled,102015,15336,704,298250,Vehicle Loan,Self-Owned,27,0
+25,male,Skilled Employee,85002,26933,744,63100,Consumer Durable Loan,Self-Owned,12,0
+31,male,Skilled Employee,91058,34328,742,168900,Vehicle Loan,Self-Owned,18,1
+57,male,Skilled Employee,46254,10527,779,111250,Vehicle Loan,Family-Owned,36,0
+26,male,Unskilled Resident,32144,6684,689,39150,Vehicle Loan,Self-Owned,6,0
+52,male,Highly Skilled,114214,20013,628,323400,Consumer Durable Loan,Self-Owned,12,1
+31,female,Skilled Employee,80118,19863,614,478300,Consumer Durable Loan,Self-Owned,36,0
+23,female,Highly Skilled,170719,54280,673,98050,Vehicle Loan,Self-Owned,18,0
+23,female,Unskilled Resident,21238,3923,643,311450,Consumer Durable Loan,Rented,36,1
+27,male,Skilled Employee,46090,12122,695,69550,Business Loan,Self-Owned,9,0
+50,male,Skilled Employee,51637,7886,824,76850,Consumer Durable Loan,Self-Owned,15,0
+61,male,Highly Skilled,112415,44471,689,97650,Business Loan,Family-Owned,36,1
+25,male,Skilled Employee,64071,12079,689,721050,Business Loan,Self-Owned,48,0
+26,female,Skilled Employee,98243,23087,718,159050,Consumer Durable Loan,Self-Owned,24,0
+48,male,Skilled Employee,85415,13284,687,259500,Home Renovation Loan,Self-Owned,27,0
+29,female,Skilled Employee,82679,23123,714,108550,Consumer Durable Loan,Self-Owned,12,0
+22,male,Skilled Employee,81240,32661,763,50350,Vehicle Loan,Self-Owned,12,0
+37,male,Skilled Employee,58271,15595,790,90950,Education Loan,Family-Owned,36,0
+25,female,Skilled Employee,76034,15499,800,119700,Consumer Durable Loan,Self-Owned,36,0
+30,female,Skilled Employee,73434,27619,884,406650,Vehicle Loan,Self-Owned,36,0
+46,male,Unskilled Resident,19188,7418,765,36500,Consumer Durable Loan,Rented,7,1
+51,male,Highly Skilled,165697,33491,898,58200,Personal Loan,Family-Owned,8,0
+41,female,Unskilled Resident,43732,16673,657,297700,Business Loan,Self-Owned,42,0
+40,male,Highly Skilled,101314,43989,887,98850,Education Loan,Self-Owned,36,0
+66,male,Highly Skilled,113954,22780,689,76300,Vehicle Loan,Family-Owned,12,0
+34,male,Skilled Employee,97108,37026,697,198250,Consumer Durable Loan,Self-Owned,42,1
+51,male,Skilled Employee,61508,22301,710,238550,Consumer Durable Loan,Self-Owned,11,1
+39,male,Unskilled Resident,36969,10797,702,471800,Vehicle Loan,Self-Owned,54,0
+22,male,Skilled Employee,85659,14337,726,191600,Consumer Durable Loan,Self-Owned,30,1
+44,female,Skilled Employee,77545,13369,673,297150,Consumer Durable Loan,Self-Owned,24,0
+47,male,Skilled Employee,76668,31106,786,60650,Consumer Durable Loan,Self-Owned,15,0
+24,female,Unskilled Resident,38061,17014,675,78400,Business Loan,Rented,18,1
+58,female,Unskilled Resident,28716,10131,772,87750,Personal Loan,Self-Owned,24,1
+52,male,Unskilled Resident,21981,6237,842,115750,Consumer Durable Loan,Self-Owned,10,0
+29,female,Highly Skilled,194680,67022,691,70600,Business Loan,Self-Owned,12,0
+27,female,Skilled Employee,56907,18683,783,64750,Consumer Durable Loan,Self-Owned,18,0
+47,male,Skilled Employee,58777,15580,764,630600,Education Loan,Family-Owned,36,0
+30,male,Highly Skilled,183229,31091,900,112450,Vehicle Loan,Self-Owned,18,0
+28,male,Skilled Employee,91745,36372,679,55400,Home Renovation Loan,Self-Owned,12,0
+56,male,Skilled Employee,82928,21689,783,30900,Consumer Durable Loan,Self-Owned,12,0
+54,male,Skilled Employee,66329,26242,589,70450,Vehicle Loan,Self-Owned,12,1
+33,female,Unskilled Resident,29124,6574,680,39850,Consumer Durable Loan,Self-Owned,12,0
+20,male,Skilled Employee,56282,8459,748,180850,Consumer Durable Loan,Rented,24,0
+54,male,Skilled Employee,63624,12577,831,65900,Vehicle Loan,Self-Owned,12,0
+58,male,Skilled Employee,63321,18398,621,797250,Business Loan,Rented,54,0
+61,female,Skilled Employee,50488,21876,782,100600,Education Loan,Self-Owned,12,0
+34,male,Skilled Employee,62574,11304,714,131100,Business Loan,Self-Owned,18,1
+36,male,Skilled Employee,45240,18379,598,116850,Consumer Durable Loan,Self-Owned,36,1
+36,male,Highly Skilled,133221,41046,734,352850,Vehicle Loan,Rented,20,0
+41,male,Unskilled Resident,25478,10134,856,73450,Vehicle Loan,Rented,24,1
+24,male,Skilled Employee,95645,22908,630,116150,Consumer Durable Loan,Rented,36,1
+24,female,Skilled Employee,85162,34233,711,46600,Consumer Durable Loan,Self-Owned,6,0
+35,male,Skilled Employee,59262,22629,641,95950,Consumer Durable Loan,Rented,9,1
+26,male,Skilled Employee,93295,20433,682,122250,Vehicle Loan,Rented,12,0
+39,male,Highly Skilled,142796,27045,834,596900,Personal Loan,Self-Owned,24,0
+39,male,Highly Skilled,94432,38756,698,322900,Vehicle Loan,Self-Owned,18,1
+32,male,Skilled Employee,69721,30605,832,303900,Vehicle Loan,Self-Owned,12,1
+30,female,Skilled Employee,53568,8538,808,386050,Consumer Durable Loan,Self-Owned,24,0
+35,male,Skilled Employee,99399,36716,690,70500,Business Loan,Self-Owned,14,1
+31,male,Skilled Employee,54178,22909,679,72450,Business Loan,Self-Owned,6,0
+23,female,Skilled Employee,90428,36823,648,19600,Education Loan,Rented,15,1
+28,male,Unskilled Resident,37195,16341,645,313000,Vehicle Loan,Rented,18,1
+25,female,Skilled Employee,40302,15235,748,392750,Vehicle Loan,Self-Owned,36,0
+35,male,Skilled Employee,57022,16119,718,84000,Consumer Durable Loan,Self-Owned,12,0
+47,male,Skilled Employee,40055,9756,670,178900,Consumer Durable Loan,Self-Owned,48,0
+30,female,Highly Skilled,98717,24306,596,358700,Consumer Durable Loan,Self-Owned,42,0
+27,female,Skilled Employee,68699,25234,728,106600,Consumer Durable Loan,Rented,10,0
+23,female,Skilled Employee,48150,17996,682,214050,Consumer Durable Loan,Self-Owned,33,1
+36,male,Highly Skilled,157661,33125,704,118300,Vehicle Loan,Self-Owned,12,0
+25,female,Skilled Employee,84247,34578,744,91750,Consumer Durable Loan,Self-Owned,21,0
+41,female,Highly Skilled,106748,38907,519,193400,Vehicle Loan,Rented,24,1
+24,male,Unskilled Resident,21809,6953,597,88400,Consumer Durable Loan,Rented,12,0
+63,male,Skilled Employee,44621,13005,900,39050,Vehicle Loan,Family-Owned,10,0
+27,female,Skilled Employee,55034,17223,679,96200,Consumer Durable Loan,Rented,18,0
+30,male,Skilled Employee,86391,17085,518,106050,Vehicle Loan,Self-Owned,12,0
+40,male,Unskilled Resident,44554,9405,604,35050,Consumer Durable Loan,Self-Owned,12,0
+30,male,Skilled Employee,45126,8003,900,31950,Home Renovation Loan,Self-Owned,12,1
+34,male,Highly Skilled,95122,18653,663,93000,Vehicle Loan,Self-Owned,12,0
+29,female,Skilled Employee,58030,16602,812,174950,Vehicle Loan,Self-Owned,12,0
+24,female,Skilled Employee,57302,17712,729,424350,Vehicle Loan,Self-Owned,48,0
+29,male,Skilled Employee,59181,9194,681,344350,Education Loan,Self-Owned,36,0
+27,male,Unskilled Resident,37890,14740,782,135400,Consumer Durable Loan,Self-Owned,15,0
+47,male,Skilled Employee,78638,18735,529,99200,Consumer Durable Loan,Family-Owned,18,1
+21,female,Skilled Employee,41531,17590,604,507200,Consumer Durable Loan,Self-Owned,60,1
+38,female,Skilled Employee,80940,35634,680,62000,Consumer Durable Loan,Self-Owned,12,0
+27,male,Skilled Employee,92497,19020,612,430650,Vehicle Loan,Self-Owned,27,1
+66,male,Unskilled Resident,22673,6544,673,38300,Consumer Durable Loan,Self-Owned,12,0
+35,male,Skilled Employee,63333,9523,788,136400,Consumer Durable Loan,Self-Owned,15,0
+44,female,Unskilled Resident,21882,7210,730,94050,Consumer Durable Loan,Rented,12,0
+27,male,Unskilled,16906,5616,826,35450,Vehicle Loan,Self-Owned,6,1
+30,female,Highly Skilled,125854,28224,735,239750,Consumer Durable Loan,Self-Owned,36,0
+27,male,Highly Skilled,136271,43269,799,170800,Consumer Durable Loan,Self-Owned,27,0
+22,male,Skilled Employee,48152,10480,714,123100,Consumer Durable Loan,Self-Owned,18,0
+23,female,Skilled Employee,78518,15566,672,114400,Consumer Durable Loan,Self-Owned,21,0
+30,male,Skilled Employee,85540,29550,838,178300,Business Loan,Self-Owned,48,1
+39,female,Skilled Employee,50267,12455,663,43000,Vehicle Loan,Self-Owned,6,0
+51,female,Skilled Employee,65289,21354,747,34100,Vehicle Loan,Self-Owned,12,0
+28,male,Skilled Employee,41062,11496,781,268550,Consumer Durable Loan,Self-Owned,36,0
+46,male,Skilled Employee,91128,40579,787,79100,Consumer Durable Loan,Self-Owned,18,1
+42,male,Skilled Employee,90448,17625,626,67300,Consumer Durable Loan,Family-Owned,6,1
+38,male,Skilled Employee,69926,20235,804,96200,Consumer Durable Loan,Self-Owned,10,0
+24,male,Skilled Employee,46229,16371,641,292400,Consumer Durable Loan,Self-Owned,36,1
+29,female,Skilled Employee,96793,26004,784,387900,Vehicle Loan,Rented,24,0
+36,male,Highly Skilled,137915,61014,762,348350,Business Loan,Rented,24,0
+20,female,Skilled Employee,44632,16360,785,64100,Consumer Durable Loan,Rented,12,0
+48,male,Skilled Employee,79056,27439,623,64400,Home Renovation Loan,Self-Owned,9,0
+45,male,Unskilled Resident,18596,7012,767,16950,Education Loan,Self-Owned,12,0
+38,male,Skilled Employee,84243,36712,806,175600,Vehicle Loan,Self-Owned,24,1
+34,male,Unskilled Resident,21168,8940,735,94900,Consumer Durable Loan,Self-Owned,6,0
+36,male,Skilled Employee,82563,30324,654,143600,Consumer Durable Loan,Self-Owned,24,1
+30,female,Skilled Employee,47561,17823,793,52750,Vehicle Loan,Self-Owned,18,0
+36,male,Skilled Employee,48258,9351,729,63100,Personal Loan,Self-Owned,15,0
+70,male,Highly Skilled,172152,31131,586,365400,Vehicle Loan,Family-Owned,10,0
+36,male,Skilled Employee,99500,31966,648,45450,Vehicle Loan,Self-Owned,36,0
+32,male,Skilled Employee,98513,15319,677,148900,Consumer Durable Loan,Self-Owned,6,0
+33,female,Skilled Employee,66734,19666,840,56550,Consumer Durable Loan,Self-Owned,18,0
+20,female,Skilled Employee,46371,9881,826,78850,Consumer Durable Loan,Self-Owned,11,0
+25,female,Skilled Employee,93358,23694,826,198600,Consumer Durable Loan,Rented,24,1
+31,male,Skilled Employee,66069,25287,738,96750,Business Loan,Self-Owned,24,1
+33,male,Skilled Employee,54369,23507,793,47500,Vehicle Loan,Rented,15,0
+26,female,Skilled Employee,52910,9085,628,38150,Consumer Durable Loan,Self-Owned,12,0
+34,female,Highly Skilled,163479,50723,720,103200,Consumer Durable Loan,Self-Owned,24,0
+33,male,Skilled Employee,52199,21650,756,70700,Consumer Durable Loan,Self-Owned,8,0
+26,male,Skilled Employee,55728,9738,634,170700,Education Loan,Self-Owned,21,1
+53,female,Highly Skilled,113275,45010,736,374250,Vehicle Loan,Self-Owned,30,1
+42,male,Skilled Employee,46738,12027,854,128850,Consumer Durable Loan,Self-Owned,12,0
+52,male,Skilled Employee,55913,13789,764,16900,Consumer Durable Loan,Self-Owned,6,0
+31,male,Highly Skilled,190776,84559,793,98150,Consumer Durable Loan,Rented,12,0
+65,male,Skilled Employee,59123,12431,523,28550,Vehicle Loan,Self-Owned,21,1
+28,male,Skilled Employee,94553,33846,844,478600,Business Loan,Self-Owned,36,0
+30,male,Highly Skilled,138447,54884,705,222750,Business Loan,Self-Owned,36,1
+40,male,Unskilled Resident,16761,2721,658,82350,Vehicle Loan,Self-Owned,21,0
+50,male,Skilled Employee,50167,17614,706,188850,Consumer Durable Loan,Self-Owned,24,0
+36,male,Skilled Employee,50554,22014,601,44200,Vehicle Loan,Self-Owned,18,1
+31,male,Skilled Employee,57260,10722,803,68000,Consumer Durable Loan,Self-Owned,15,0
+74,female,Highly Skilled,93812,39294,693,256450,Vehicle Loan,Family-Owned,9,1
+68,male,Unskilled,43024,14130,660,58750,Vehicle Loan,Family-Owned,16,0
+20,male,Skilled Employee,98656,33047,706,33700,Consumer Durable Loan,Self-Owned,12,0
+33,female,Skilled Employee,90612,30253,809,162200,Consumer Durable Loan,Self-Owned,18,0
+54,male,Highly Skilled,117285,28107,730,229550,Business Loan,Self-Owned,24,0
+34,male,Unskilled Resident,41900,18040,607,192200,Business Loan,Family-Owned,48,1
+36,male,Skilled Employee,90885,39462,757,195750,Business Loan,Self-Owned,27,0
+29,male,Skilled Employee,41605,14045,645,105400,Consumer Durable Loan,Rented,6,1
+21,male,Skilled Employee,45622,17565,547,151550,Consumer Durable Loan,Rented,45,1
+34,female,Highly Skilled,162303,54156,839,75050,Education Loan,Self-Owned,9,0
+28,female,Skilled Employee,67139,19827,756,69100,Consumer Durable Loan,Self-Owned,6,0
+27,female,Skilled Employee,51613,17974,713,47550,Consumer Durable Loan,Rented,12,1
+36,male,Skilled Employee,96138,30370,692,138000,Vehicle Loan,Family-Owned,24,0
+40,male,Highly Skilled,166125,54695,831,214850,Consumer Durable Loan,Self-Owned,18,0
+52,male,Skilled Employee,53918,20766,900,46800,Education Loan,Self-Owned,9,0
+27,male,Unskilled Resident,35119,10334,755,58400,Vehicle Loan,Self-Owned,12,0
+26,male,Skilled Employee,67446,10941,637,255850,Business Loan,Self-Owned,27,1
+21,male,Skilled Employee,98504,19621,707,45100,Education Loan,Rented,12,0
+38,male,Unskilled Resident,28046,7897,754,74750,Vehicle Loan,Self-Owned,12,0
+38,male,Highly Skilled,114818,42189,532,531150,Vehicle Loan,Family-Owned,30,1
+43,male,Skilled Employee,75358,24716,746,96750,Consumer Durable Loan,Self-Owned,12,0
+26,male,Skilled Employee,90215,31132,754,71200,Personal Loan,Self-Owned,12,0
+21,male,Unskilled Resident,19324,5677,826,328400,Business Loan,Self-Owned,24,0
+55,male,Skilled Employee,50787,16999,817,70650,Vehicle Loan,Self-Owned,12,0
+33,male,Skilled Employee,49111,12214,728,153700,Consumer Durable Loan,Self-Owned,9,0
+45,female,Unskilled Resident,20342,5920,841,191750,Consumer Durable Loan,Self-Owned,36,0
+50,male,Skilled Employee,56389,21049,882,264650,Business Loan,Self-Owned,27,1
+66,male,Highly Skilled,131427,54088,722,95400,Business Loan,Self-Owned,30,0
+51,male,Skilled Employee,54043,15137,753,167100,Consumer Durable Loan,Self-Owned,36,0
+39,female,Unskilled Resident,43746,7134,578,46600,Education Loan,Self-Owned,6,1
+31,male,Skilled Employee,97347,19323,603,155200,Business Loan,Self-Owned,18,0
+23,male,Skilled Employee,62350,9742,652,195650,Consumer Durable Loan,Self-Owned,36,0
+24,male,Unskilled Resident,23837,8247,684,151050,Consumer Durable Loan,Rented,24,0
+64,female,Skilled Employee,40117,10016,632,68200,Vehicle Loan,Self-Owned,10,0
+26,male,Unskilled Resident,42504,13292,717,31250,Consumer Durable Loan,Self-Owned,12,1
+23,female,Skilled Employee,86685,25830,686,60000,Education Loan,Rented,12,0
+30,male,Skilled Employee,58935,10281,805,35350,Consumer Durable Loan,Self-Owned,12,0
+32,male,Skilled Employee,87077,23595,682,148900,Business Loan,Self-Owned,24,0
+30,male,Skilled Employee,53234,11507,537,232850,Vehicle Loan,Self-Owned,15,0
+27,male,Skilled Employee,78328,21580,730,130650,Home Renovation Loan,Self-Owned,36,0
+27,male,Skilled Employee,93441,19722,718,548050,Consumer Durable Loan,Self-Owned,48,0
+53,male,Highly Skilled,90846,36532,651,393250,Consumer Durable Loan,Family-Owned,12,1
+22,male,Skilled Employee,50954,10305,727,73900,Consumer Durable Loan,Self-Owned,9,0
+22,male,Skilled Employee,53703,23534,633,157450,Consumer Durable Loan,Family-Owned,24,0
+26,male,Skilled Employee,88153,24221,746,210500,Consumer Durable Loan,Self-Owned,36,0
+51,male,Unskilled Resident,28746,11609,900,125350,Vehicle Loan,Family-Owned,9,0
+35,male,Skilled Employee,62700,21232,575,107050,Consumer Durable Loan,Self-Owned,12,0
+25,male,Unskilled Resident,21469,7956,678,43300,Consumer Durable Loan,Self-Owned,18,0
+42,male,Unskilled Resident,24333,9254,665,77200,Consumer Durable Loan,Self-Owned,4,0
+30,male,Highly Skilled,154323,46521,685,91150,Consumer Durable Loan,Self-Owned,24,0
+23,male,Unskilled,41386,12953,801,727750,Vehicle Loan,Self-Owned,6,0
+61,male,Unskilled Resident,40299,12258,763,138350,Business Loan,Rented,21,0
+35,female,Skilled Employee,89376,29173,787,64550,Consumer Durable Loan,Self-Owned,12,0
+39,male,Skilled Employee,85587,13592,722,126100,Consumer Durable Loan,Self-Owned,30,0
+29,female,Skilled Employee,76976,20679,614,45750,Vehicle Loan,Self-Owned,24,1
+51,male,Skilled Employee,79051,26233,630,79750,Consumer Durable Loan,Self-Owned,6,1
+24,male,Skilled Employee,42048,13847,779,230250,Vehicle Loan,Family-Owned,48,0
+27,female,Skilled Employee,79001,30643,733,59250,Business Loan,Self-Owned,12,0
+35,female,Unskilled Resident,27941,9681,820,172350,Education Loan,Self-Owned,12,0
+25,male,Skilled Employee,85375,38217,743,62900,Business Loan,Self-Owned,24,1
+52,male,Skilled Employee,82533,19408,625,35850,Consumer Durable Loan,Self-Owned,12,1
+35,male,Skilled Employee,41828,10780,678,60200,Vehicle Loan,Rented,6,0
+26,male,Skilled Employee,41917,11114,765,96250,Consumer Durable Loan,Self-Owned,24,0
+22,female,Skilled Employee,60618,17563,776,21650,Consumer Durable Loan,Rented,18,0
+39,female,Unskilled Resident,21988,8812,788,33300,Vehicle Loan,Self-Owned,6,1
+46,female,Unskilled Resident,33410,7374,636,112550,Consumer Durable Loan,Self-Owned,12,0
+24,female,Skilled Employee,87362,33442,623,107500,Vehicle Loan,Self-Owned,30,1
+35,male,Skilled Employee,60128,16330,704,207550,Consumer Durable Loan,Self-Owned,24,0
+24,male,Skilled Employee,98245,32475,835,101500,Consumer Durable Loan,Self-Owned,9,0
+27,male,Unskilled Resident,27977,9505,664,370900,Consumer Durable Loan,Self-Owned,60,0
+35,male,Unskilled Resident,41615,10897,756,134200,Consumer Durable Loan,Self-Owned,24,0
+29,male,Skilled Employee,40009,12154,756,107450,Consumer Durable Loan,Family-Owned,12,0
+23,female,Skilled Employee,56644,15515,780,190600,Vehicle Loan,Self-Owned,15,0
+57,female,Unskilled Resident,37422,6389,853,57700,Consumer Durable Loan,Self-Owned,11,0
+27,male,Skilled Employee,49865,14019,844,82850,Consumer Durable Loan,Self-Owned,12,0
+55,female,Skilled Employee,42219,7566,672,80150,Consumer Durable Loan,Self-Owned,24,0
+36,male,Highly Skilled,129809,35243,552,265100,Vehicle Loan,Family-Owned,18,0
+57,female,Unskilled Resident,33444,10965,665,137400,Education Loan,Family-Owned,12,0
+32,male,Unskilled Resident,20287,6569,726,61550,Vehicle Loan,Self-Owned,10,0
+37,male,Skilled Employee,74387,25945,691,40100,Consumer Durable Loan,Self-Owned,15,0
+36,male,Skilled Employee,48512,8663,877,315200,Business Loan,Self-Owned,36,0
+38,female,Skilled Employee,41342,14289,721,76650,Consumer Durable Loan,Self-Owned,24,1
+45,male,Highly Skilled,153076,37296,772,448900,Vehicle Loan,Self-Owned,14,0
+25,male,Skilled Employee,83336,22476,737,49950,Consumer Durable Loan,Self-Owned,24,0
+32,male,Skilled Employee,59216,24124,692,133100,Vehicle Loan,Self-Owned,18,0
+37,female,Skilled Employee,91976,14045,566,70100,Consumer Durable Loan,Rented,12,0
+36,male,Highly Skilled,183070,59776,713,608450,Vehicle Loan,Family-Owned,48,0
+28,male,Skilled Employee,54231,17875,900,153000,Consumer Durable Loan,Self-Owned,48,0
+34,male,Unskilled Resident,41614,11194,620,599900,Home Renovation Loan,Self-Owned,30,1
+32,male,Skilled Employee,76258,16861,574,134850,Consumer Durable Loan,Self-Owned,9,0
+26,female,Skilled Employee,68253,15043,874,120200,Consumer Durable Loan,Self-Owned,18,0
+49,male,Unskilled Resident,24310,10091,779,63100,Consumer Durable Loan,Self-Owned,12,1
+32,female,Skilled Employee,80752,22821,734,230550,Consumer Durable Loan,Self-Owned,6,0
+29,male,Highly Skilled,173524,43253,829,95050,Consumer Durable Loan,Rented,24,0
+23,male,Skilled Employee,71037,20219,653,168400,Vehicle Loan,Rented,15,0
+50,male,Skilled Employee,52219,18319,711,78700,Consumer Durable Loan,Self-Owned,12,0
+49,male,Unskilled Resident,15235,2951,796,72250,Consumer Durable Loan,Self-Owned,18,0
+63,male,Skilled Employee,82929,23620,888,76000,Consumer Durable Loan,Self-Owned,15,0
+37,male,Skilled Employee,41908,13677,626,193900,Vehicle Loan,Self-Owned,24,0
+35,female,Unskilled Resident,23567,10241,822,536100,Vehicle Loan,Self-Owned,47,1
+26,male,Skilled Employee,76298,17224,750,239400,Vehicle Loan,Self-Owned,48,0
+31,male,Highly Skilled,160792,41448,733,379100,Personal Loan,Family-Owned,48,0
+49,female,Skilled Employee,59019,15569,719,54600,Consumer Durable Loan,Self-Owned,12,0
+48,male,Skilled Employee,48162,15973,609,51200,Consumer Durable Loan,Self-Owned,24,0
+26,male,Skilled Employee,98914,25422,797,53800,Business Loan,Self-Owned,12,0
+28,male,Highly Skilled,95415,29583,657,469900,Vehicle Loan,Rented,36,0
+44,female,Highly Skilled,126159,48512,633,320950,Vehicle Loan,Family-Owned,24,0
+56,male,Skilled Employee,83925,30348,790,239800,Vehicle Loan,Family-Owned,42,0
+46,male,Highly Skilled,95951,27241,783,381450,Business Loan,Self-Owned,48,0
+26,female,Skilled Employee,61852,25313,726,498000,Consumer Durable Loan,Self-Owned,48,0
+20,female,Skilled Employee,48007,15239,806,233750,Vehicle Loan,Rented,12,0
+45,male,Unskilled Resident,43426,13547,834,64350,Vehicle Loan,Self-Owned,10,0
+43,male,Skilled Employee,81832,13114,824,125750,Consumer Durable Loan,Self-Owned,18,0
+32,male,Skilled Employee,98596,43974,677,137250,Consumer Durable Loan,Self-Owned,21,1
+54,female,Unskilled,37797,7063,801,33600,Vehicle Loan,Self-Owned,6,0
+42,female,Skilled Employee,70523,15468,736,190200,Consumer Durable Loan,Self-Owned,36,0
+37,male,Unskilled Resident,38325,6343,858,67200,Vehicle Loan,Self-Owned,24,0
+49,male,Skilled Employee,98658,33741,710,51900,Vehicle Loan,Self-Owned,10,0
+44,male,Skilled Employee,61204,13306,691,506350,Vehicle Loan,Family-Owned,48,0
+33,male,Skilled Employee,55524,11327,670,77150,Consumer Durable Loan,Self-Owned,6,0
+24,female,Unskilled Resident,34282,6053,735,240550,Vehicle Loan,Rented,30,0
+33,male,Unskilled Resident,38930,7046,757,36350,Consumer Durable Loan,Self-Owned,12,0
+24,female,Skilled Employee,40077,13041,758,61850,Consumer Durable Loan,Self-Owned,8,0
+22,male,Unskilled Resident,22577,8047,747,13800,Vehicle Loan,Rented,9,0
+40,male,Unskilled,42197,11360,773,269050,Personal Loan,Family-Owned,48,0
+25,male,Skilled Employee,60611,17817,702,275550,Consumer Durable Loan,Self-Owned,24,0
+26,female,Skilled Employee,56984,20274,650,187450,Consumer Durable Loan,Self-Owned,24,0
+25,male,Unskilled Resident,29060,4510,643,34250,Vehicle Loan,Self-Owned,12,0
+29,male,Unskilled Resident,32449,8012,798,74700,Vehicle Loan,Self-Owned,4,0
+31,male,Skilled Employee,58520,25861,757,137300,Consumer Durable Loan,Self-Owned,36,1
+38,male,Unskilled Resident,42025,13617,571,35400,Consumer Durable Loan,Self-Owned,12,0
+48,female,Unskilled Resident,25535,5777,807,217550,Consumer Durable Loan,Self-Owned,24,0
+32,male,Skilled Employee,99207,30408,870,35050,Education Loan,Self-Owned,12,0
+27,female,Unskilled Resident,24510,6196,662,182150,Consumer Durable Loan,Self-Owned,15,0
+28,male,Highly Skilled,119287,36940,746,212450,Vehicle Loan,Self-Owned,30,0
+32,male,Skilled Employee,68173,12797,682,96900,Consumer Durable Loan,Self-Owned,24,1
+34,male,Highly Skilled,129711,24621,770,145500,Vehicle Loan,Family-Owned,24,0
+28,male,Skilled Employee,51954,10030,626,132950,Consumer Durable Loan,Self-Owned,18,1
+36,female,Skilled Employee,47804,20648,714,51400,Vehicle Loan,Self-Owned,18,1
+39,male,Unskilled Resident,21565,7976,798,169900,Vehicle Loan,Self-Owned,8,0
+49,male,Skilled Employee,45984,9137,818,290050,Consumer Durable Loan,Rented,12,0
+34,female,Skilled Employee,61526,12705,754,76250,Vehicle Loan,Self-Owned,24,0
+31,male,Skilled Employee,77438,28593,692,223650,Consumer Durable Loan,Self-Owned,36,0
+28,male,Skilled Employee,58574,11530,592,53400,Consumer Durable Loan,Self-Owned,6,1
+75,male,Highly Skilled,99184,21857,659,330750,Vehicle Loan,Family-Owned,24,0
+30,female,Skilled Employee,59096,25943,682,93200,Education Loan,Self-Owned,18,0
+24,female,Highly Skilled,157728,35739,664,370400,Vehicle Loan,Self-Owned,60,0
+24,female,Unskilled Resident,16248,5662,724,579500,Vehicle Loan,Rented,48,0
+23,male,Skilled Employee,51246,22732,692,205500,Consumer Durable Loan,Rented,24,0
+44,male,Highly Skilled,135558,35555,733,169200,Consumer Durable Loan,Rented,6,0
+23,female,Unskilled Resident,35417,5498,816,105050,Consumer Durable Loan,Self-Owned,13,0
+24,female,Skilled Employee,58381,13033,687,63750,Personal Loan,Rented,15,0
+28,male,Skilled Employee,76455,30525,609,208450,Consumer Durable Loan,Self-Owned,24,1
+31,male,Unskilled Resident,41727,17082,663,76050,Consumer Durable Loan,Self-Owned,10,0
+24,female,Skilled Employee,44018,16751,766,287150,Education Loan,Family-Owned,24,0
+26,female,Unskilled Resident,26302,4837,774,179950,Consumer Durable Loan,Rented,21,0
+25,male,Skilled Employee,41970,16311,752,160650,Consumer Durable Loan,Rented,18,0
+33,male,Highly Skilled,131157,55820,824,221950,Business Loan,Self-Owned,18,1
+37,male,Unskilled Resident,37149,12265,705,197450,Vehicle Loan,Self-Owned,10,0
+43,female,Unskilled Resident,42202,18242,884,72950,Consumer Durable Loan,Self-Owned,15,0
+23,male,Skilled Employee,71110,28305,785,44100,Consumer Durable Loan,Self-Owned,13,1
+23,female,Unskilled,32586,11408,518,187900,Consumer Durable Loan,Rented,24,1
+34,male,Unskilled Resident,39519,12770,864,87150,Business Loan,Self-Owned,6,0
+32,male,Skilled Employee,71273,18144,658,56800,Education Loan,Family-Owned,9,0
+23,female,Skilled Employee,61951,12253,637,61800,Personal Loan,Rented,9,0
+29,female,Skilled Employee,96819,32094,761,47950,Consumer Durable Loan,Self-Owned,9,0
+38,male,Highly Skilled,170910,41947,580,161450,Vehicle Loan,Self-Owned,18,0
+28,male,Skilled Employee,94894,38900,664,309950,Consumer Durable Loan,Rented,12,0
+46,male,Skilled Employee,45788,20513,844,36350,Education Loan,Family-Owned,10,0
+23,male,Unskilled Resident,20408,7667,764,62300,Vehicle Loan,Self-Owned,24,0
+49,male,Skilled Employee,99379,17604,784,116550,Consumer Durable Loan,Self-Owned,12,0
+26,male,Highly Skilled,115053,27222,667,223150,Consumer Durable Loan,Self-Owned,36,0
+28,male,Skilled Employee,49446,9035,596,38800,Consumer Durable Loan,Self-Owned,12,1
+23,female,Skilled Employee,40922,14124,776,120300,Consumer Durable Loan,Rented,30,0
+61,male,Skilled Employee,73187,27778,794,61950,Education Loan,Family-Owned,18,1
+37,male,Highly Skilled,141356,60458,790,169950,Consumer Durable Loan,Self-Owned,12,0
+36,female,Skilled Employee,50789,14294,736,112350,Vehicle Loan,Self-Owned,12,0
+21,male,Skilled Employee,72184,30347,642,88300,Consumer Durable Loan,Rented,6,0
+25,male,Unskilled,16120,6663,900,123650,Consumer Durable Loan,Self-Owned,18,1
+36,male,Skilled Employee,84028,20600,758,77100,Business Loan,Self-Owned,12,0
+27,male,Skilled Employee,72154,29631,706,192500,Vehicle Loan,Self-Owned,18,0
+22,female,Skilled Employee,57334,15061,706,182500,Consumer Durable Loan,Rented,18,0
+42,male,Skilled Employee,42336,10120,731,172300,Consumer Durable Loan,Self-Owned,36,0
+40,female,Skilled Employee,78141,26936,805,150050,Consumer Durable Loan,Rented,18,0
+36,male,Skilled Employee,42243,10497,735,153950,Vehicle Loan,Self-Owned,36,0
+33,male,Skilled Employee,59029,20014,788,303500,Consumer Durable Loan,Self-Owned,18,0
+23,female,Skilled Employee,99201,33028,732,107300,Consumer Durable Loan,Rented,10,0
+63,male,Highly Skilled,122265,39006,711,687800,Vehicle Loan,Family-Owned,60,0
+60,female,Highly Skilled,192916,50954,771,739100,Personal Loan,Family-Owned,60,0
+37,female,Skilled Employee,86714,27275,768,384250,Business Loan,Rented,48,0
+34,male,Skilled Employee,91017,29939,706,116000,Consumer Durable Loan,Self-Owned,18,0
+36,male,Skilled Employee,83872,26311,660,42300,Consumer Durable Loan,Family-Owned,7,0
+57,male,Highly Skilled,136197,38588,747,715900,Vehicle Loan,Family-Owned,36,0
+52,female,Unskilled Resident,42429,6551,726,18100,Vehicle Loan,Self-Owned,6,0
+39,male,Skilled Employee,95180,31039,675,110600,Consumer Durable Loan,Self-Owned,20,0
+38,female,Highly Skilled,113710,22802,652,648800,Vehicle Loan,Family-Owned,18,0
+25,female,Skilled Employee,69486,23817,752,64150,Vehicle Loan,Rented,22,0
+26,male,Skilled Employee,46371,17519,764,66500,Vehicle Loan,Self-Owned,12,0
+26,male,Unskilled Resident,21359,6410,691,213600,Business Loan,Self-Owned,30,0
+25,female,Skilled Employee,80631,25214,673,111900,Consumer Durable Loan,Self-Owned,18,0
+21,female,Skilled Employee,75996,33091,653,56300,Consumer Durable Loan,Rented,18,0
+40,male,Highly Skilled,110103,44498,750,368700,Consumer Durable Loan,Self-Owned,18,0
+27,male,Skilled Employee,54382,23072,655,116300,Business Loan,Self-Owned,15,0
+27,female,Skilled Employee,58755,23157,899,72450,Business Loan,Self-Owned,9,0
+30,male,Highly Skilled,191195,34926,687,91000,Vehicle Loan,Self-Owned,18,0
+19,female,Unskilled Resident,18756,3651,525,49150,Consumer Durable Loan,Rented,12,0
+39,male,Highly Skilled,110609,34066,717,162450,Vehicle Loan,Family-Owned,36,0
+31,female,Skilled Employee,88538,19816,714,97850,Consumer Durable Loan,Self-Owned,6,0
+31,male,Highly Skilled,106478,31198,808,120300,Consumer Durable Loan,Self-Owned,9,0
+32,male,Skilled Employee,75442,20241,743,588000,Education Loan,Rented,39,0
+55,female,Highly Skilled,129666,40822,653,128900,Consumer Durable Loan,Family-Owned,12,0
+46,male,Skilled Employee,50147,18758,697,117400,Consumer Durable Loan,Self-Owned,36,0
+46,male,Skilled Employee,73561,26823,746,61150,Vehicle Loan,Rented,12,1
+43,female,Unskilled Resident,41410,12686,546,75800,Consumer Durable Loan,Self-Owned,24,1
+39,male,Skilled Employee,74884,29707,827,73650,Consumer Durable Loan,Self-Owned,18,1
+28,male,Skilled Employee,45779,12784,653,94350,Business Loan,Self-Owned,18,0
+27,male,Skilled Employee,52298,21913,833,432400,Business Loan,Self-Owned,24,0
+27,male,Unskilled Resident,42901,7352,751,40100,Vehicle Loan,Self-Owned,14,0
+43,male,Skilled Employee,54153,23632,770,144950,Vehicle Loan,Self-Owned,18,1
+22,male,Skilled Employee,83879,29056,811,101950,Consumer Durable Loan,Self-Owned,24,0
+43,male,Skilled Employee,50789,13409,765,109850,Vehicle Loan,Self-Owned,24,0
+27,male,Skilled Employee,84165,17602,773,52650,Consumer Durable Loan,Self-Owned,15,0
+26,male,Highly Skilled,102999,30256,706,161750,Consumer Durable Loan,Self-Owned,24,0
+28,male,Skilled Employee,95318,19861,749,46950,Vehicle Loan,Self-Owned,12,0
+20,female,Skilled Employee,40814,8158,673,98350,Consumer Durable Loan,Self-Owned,24,0
+35,male,Highly Skilled,166077,55669,692,362650,Vehicle Loan,Self-Owned,33,0
+42,male,Highly Skilled,180474,55392,877,114600,Business Loan,Self-Owned,12,0
+40,male,Unskilled Resident,17443,6122,655,79850,Vehicle Loan,Rented,10,1
+35,female,Skilled Employee,50457,21640,732,69050,Vehicle Loan,Self-Owned,24,0
+35,male,Skilled Employee,50380,15601,729,292100,Vehicle Loan,Self-Owned,36,0
+33,male,Unskilled Resident,22783,7388,695,128950,Vehicle Loan,Self-Owned,12,0
+23,female,Skilled Employee,84241,14901,761,423550,Education Loan,Rented,18,0
+31,female,Highly Skilled,107368,39220,767,139100,Vehicle Loan,Self-Owned,21,1
+33,female,Skilled Employee,55328,14936,645,52100,Vehicle Loan,Self-Owned,18,0
+20,female,Skilled Employee,96942,42947,728,159300,Vehicle Loan,Rented,15,1
+30,male,Skilled Employee,66215,26284,633,101400,Vehicle Loan,Self-Owned,12,1
+47,male,Unskilled Resident,15827,4854,783,47900,Vehicle Loan,Self-Owned,12,0
+34,male,Highly Skilled,117306,21932,734,79550,Consumer Durable Loan,Self-Owned,21,0
+25,female,Skilled Employee,59915,24434,726,138100,Consumer Durable Loan,Self-Owned,12,0
+21,male,Skilled Employee,79915,31161,772,138950,Vehicle Loan,Rented,18,0
+29,male,Skilled Employee,77219,15858,697,137150,Consumer Durable Loan,Self-Owned,28,0
+46,male,Skilled Employee,55343,13203,793,57450,Consumer Durable Loan,Self-Owned,18,0
+20,male,Skilled Employee,86403,33526,644,65650,Consumer Durable Loan,Self-Owned,9,1
+55,female,Unskilled,42511,8738,832,59500,Home Renovation Loan,Family-Owned,18,0
+74,male,Unskilled Resident,35260,14996,675,172400,Business Loan,Self-Owned,5,0
+29,male,Highly Skilled,194263,53880,584,566400,Personal Loan,Self-Owned,24,0
+36,male,Highly Skilled,90126,15872,693,93600,Consumer Durable Loan,Family-Owned,6,0
+33,male,Skilled Employee,92329,36444,684,102900,Home Renovation Loan,Self-Owned,24,1
+25,male,Skilled Employee,67632,17723,693,106800,Consumer Durable Loan,Self-Owned,9,0
+25,male,Skilled Employee,81563,25117,738,74200,Consumer Durable Loan,Self-Owned,12,0
+23,male,Unskilled Resident,26641,4893,807,33000,Home Renovation Loan,Rented,6,0
+37,female,Skilled Employee,95176,14350,704,64350,Vehicle Loan,Self-Owned,24,0
+65,male,Unskilled,36493,12458,664,169700,Home Renovation Loan,Self-Owned,42,0
+26,female,Unskilled,35530,10820,629,30450,Business Loan,Self-Owned,12,0
+39,male,Highly Skilled,195500,64136,682,94200,Vehicle Loan,Self-Owned,12,0
+30,female,Skilled Employee,84327,32729,568,81000,Consumer Durable Loan,Self-Owned,12,1
+29,male,Skilled Employee,43368,14917,661,131450,Personal Loan,Self-Owned,20,0
+41,male,Unskilled Resident,18797,3805,819,35950,Education Loan,Self-Owned,12,0
+30,female,Highly Skilled,137882,35605,654,254800,Consumer Durable Loan,Self-Owned,48,0
+41,female,Unskilled Resident,28718,12112,770,62200,Education Loan,Rented,9,1
+34,female,Skilled Employee,74560,28406,621,92100,Vehicle Loan,Self-Owned,36,1
+35,male,Skilled Employee,51053,16183,861,128800,Consumer Durable Loan,Self-Owned,7,0
+55,female,Highly Skilled,112116,25415,867,71200,Consumer Durable Loan,Self-Owned,12,0
+61,male,Skilled Employee,76244,18345,767,75600,Home Renovation Loan,Self-Owned,15,0
+30,male,Highly Skilled,191721,70857,879,552700,Vehicle Loan,Self-Owned,36,0
+29,female,Skilled Employee,41645,16880,748,25900,Consumer Durable Loan,Self-Owned,6,0
+34,male,Skilled Employee,87523,30757,781,137950,Consumer Durable Loan,Self-Owned,12,0
+35,male,Highly Skilled,109256,42922,820,133500,Vehicle Loan,Self-Owned,24,1
+31,male,Skilled Employee,75840,28818,734,240850,Vehicle Loan,Self-Owned,24,0
+29,female,Highly Skilled,190158,37063,595,133950,Vehicle Loan,Self-Owned,24,1
+36,male,Skilled Employee,93173,25826,783,195250,Vehicle Loan,Rented,11,0
+35,male,Skilled Employee,77430,15168,682,169300,Vehicle Loan,Family-Owned,12,0
+27,female,Skilled Employee,79282,17487,688,17150,Personal Loan,Self-Owned,6,0
+32,male,Skilled Employee,94183,38688,743,229700,Consumer Durable Loan,Self-Owned,18,1
+37,male,Skilled Employee,42708,12465,765,181000,Consumer Durable Loan,Self-Owned,36,0
+36,male,Skilled Employee,51694,16056,732,86050,Vehicle Loan,Self-Owned,15,0
+34,female,Highly Skilled,146264,29769,770,150850,Consumer Durable Loan,Rented,12,0
+38,male,Skilled Employee,49524,12068,663,37700,Education Loan,Self-Owned,12,0
+34,male,Skilled Employee,71880,15747,716,97500,Business Loan,Self-Owned,18,1
+63,male,Skilled Employee,97545,20665,787,146200,Vehicle Loan,Self-Owned,24,0
+29,female,Unskilled Resident,34891,11911,861,82950,Consumer Durable Loan,Rented,24,0
+32,male,Skilled Employee,79224,17989,890,361900,Consumer Durable Loan,Self-Owned,48,0
+26,female,Skilled Employee,76980,26142,754,138200,Business Loan,Self-Owned,33,0
+35,male,Unskilled Resident,28224,4728,787,233950,Vehicle Loan,Self-Owned,24,0
+22,male,Skilled Employee,80738,15544,878,154600,Consumer Durable Loan,Rented,24,0
+23,female,Skilled Employee,65150,15138,666,22400,Education Loan,Self-Owned,6,0
+28,male,Unskilled Resident,31920,10505,770,32700,Vehicle Loan,Self-Owned,9,0
+36,male,Highly Skilled,189929,66997,781,61900,Education Loan,Self-Owned,6,0
+33,male,Skilled Employee,83082,23496,835,62250,Consumer Durable Loan,Self-Owned,18,0
+26,female,Skilled Employee,47973,13611,629,155700,Consumer Durable Loan,Rented,18,0
+24,male,Skilled Employee,48577,17845,644,128450,Vehicle Loan,Self-Owned,39,1
+25,male,Skilled Employee,48070,7438,721,257600,Consumer Durable Loan,Self-Owned,24,0
+39,male,Unskilled Resident,42857,10813,750,51850,Business Loan,Self-Owned,12,0
+44,male,Skilled Employee,48666,19252,809,73900,Consumer Durable Loan,Self-Owned,15,0
+23,female,Unskilled Resident,39993,13236,761,178650,Consumer Durable Loan,Self-Owned,12,0
+26,male,Skilled Employee,95642,24022,707,60050,Vehicle Loan,Self-Owned,24,1
+57,female,Skilled Employee,76368,32201,753,181100,Consumer Durable Loan,Rented,30,0
+30,female,Skilled Employee,46783,17861,744,48000,Consumer Durable Loan,Self-Owned,15,0
+44,male,Skilled Employee,85994,19732,859,58150,Vehicle Loan,Self-Owned,12,0
+47,male,Highly Skilled,131914,45323,733,60450,Vehicle Loan,Self-Owned,6,0
+52,male,Skilled Employee,44971,14783,689,153850,Consumer Durable Loan,Self-Owned,12,0
+62,female,Skilled Employee,53490,14461,755,187850,Vehicle Loan,Family-Owned,24,0
+35,male,Unskilled Resident,32589,8475,735,70900,Vehicle Loan,Rented,10,0
+26,male,Skilled Employee,85719,21692,594,175900,Vehicle Loan,Rented,6,0
+26,male,Skilled Employee,85080,28514,718,96700,Consumer Durable Loan,Self-Owned,12,0
+42,female,Highly Skilled,157526,44536,711,415900,Business Loan,Family-Owned,27,0
+27,female,Skilled Employee,45299,18099,676,61850,Consumer Durable Loan,Self-Owned,6,0
+38,male,Skilled Employee,85765,30093,802,18400,Consumer Durable Loan,Self-Owned,6,1
+39,male,Unskilled Resident,34956,5976,657,106100,Vehicle Loan,Rented,12,0
+20,male,Skilled Employee,62359,21329,756,149800,Consumer Durable Loan,Self-Owned,24,0
+29,male,Highly Skilled,136240,31518,708,451700,Consumer Durable Loan,Rented,36,0
+40,male,Skilled Employee,95472,31299,728,79250,Consumer Durable Loan,Self-Owned,24,0
+32,male,Unskilled Resident,19380,6861,752,65050,Consumer Durable Loan,Self-Owned,18,0
+28,male,Skilled Employee,68734,15069,615,66150,Vehicle Loan,Self-Owned,6,1
+27,female,Skilled Employee,44757,12847,735,156150,Vehicle Loan,Self-Owned,24,0
+42,male,Skilled Employee,59097,12238,900,274650,Vehicle Loan,Family-Owned,36,0
+49,male,Skilled Employee,50395,8350,595,56300,Consumer Durable Loan,Self-Owned,9,1
+38,male,Skilled Employee,56241,14821,715,60800,Consumer Durable Loan,Self-Owned,24,0
+24,female,Skilled Employee,78356,20285,809,60350,Vehicle Loan,Rented,24,0
+27,male,Unskilled Resident,42696,19155,744,65450,Vehicle Loan,Self-Owned,10,0
+36,male,Skilled Employee,90118,25585,775,118000,Vehicle Loan,Self-Owned,15,0
+34,male,Highly Skilled,160480,40131,529,342500,Vehicle Loan,Self-Owned,15,0
+28,male,Skilled Employee,86163,27929,767,70650,Consumer Durable Loan,Self-Owned,24,0
+45,male,Highly Skilled,109816,19396,659,429400,Vehicle Loan,Self-Owned,39,0
+26,male,Skilled Employee,89840,39394,744,37950,Vehicle Loan,Self-Owned,12,1
+32,male,Highly Skilled,192547,65559,717,234300,Vehicle Loan,Family-Owned,36,0
+26,male,Skilled Employee,92853,34954,900,134350,Business Loan,Rented,15,1
+20,male,Skilled Employee,64917,13057,763,29250,Consumer Durable Loan,Rented,12,0
+54,male,Skilled Employee,71195,19425,710,112750,Vehicle Loan,Self-Owned,24,0
+37,female,Skilled Employee,61566,17041,599,30450,Vehicle Loan,Self-Owned,6,0
+40,male,Unskilled Resident,24916,9880,729,68050,Vehicle Loan,Self-Owned,6,0
+23,female,Skilled Employee,95856,14413,785,356350,Consumer Durable Loan,Rented,36,0
+43,male,Skilled Employee,60806,14609,713,60150,Vehicle Loan,Self-Owned,6,0
+36,male,Skilled Employee,49984,22211,679,35000,Consumer Durable Loan,Family-Owned,6,1
+44,male,Skilled Employee,41759,12213,674,275350,Home Renovation Loan,Family-Owned,24,0
+24,female,Skilled Employee,81949,21696,762,159500,Consumer Durable Loan,Self-Owned,18,0
+53,male,Skilled Employee,66838,12428,780,355950,Consumer Durable Loan,Family-Owned,48,0
+23,female,Skilled Employee,42482,18787,828,174400,Vehicle Loan,Self-Owned,24,1
+26,female,Unskilled Resident,39442,6153,640,55650,Consumer Durable Loan,Self-Owned,18,0
+30,male,Skilled Employee,73719,27361,762,398300,Vehicle Loan,Self-Owned,26,1
+31,female,Skilled Employee,98066,37321,710,76600,Education Loan,Self-Owned,15,1
+42,male,Unskilled Resident,42965,9585,712,75150,Consumer Durable Loan,Self-Owned,4,0
+31,male,Skilled Employee,42079,14789,752,115100,Consumer Durable Loan,Rented,36,0
+41,male,Unskilled Resident,17717,3151,752,33100,Vehicle Loan,Self-Owned,6,0
+32,male,Skilled Employee,99676,22637,762,113650,Education Loan,Self-Owned,36,0
+28,female,Skilled Employee,67952,26254,635,131550,Vehicle Loan,Rented,15,1
+41,male,Skilled Employee,60908,24936,660,75150,Vehicle Loan,Rented,12,0
+26,male,Skilled Employee,82460,27421,838,65550,Consumer Durable Loan,Self-Owned,24,0
+25,male,Skilled Employee,64861,19591,702,155250,Consumer Durable Loan,Self-Owned,24,0
+33,male,Skilled Employee,47311,9357,744,115950,Education Loan,Rented,21,0
+75,female,Highly Skilled,183607,31017,804,68700,Vehicle Loan,Self-Owned,6,0
+37,female,Skilled Employee,63570,11779,757,180600,Consumer Durable Loan,Self-Owned,18,0
+42,male,Highly Skilled,108449,23664,763,388150,Vehicle Loan,Family-Owned,48,0
+45,female,Unskilled Resident,15768,3981,791,152450,Consumer Durable Loan,Self-Owned,18,0
+23,male,Skilled Employee,78258,20681,550,76700,Consumer Durable Loan,Rented,12,0
+60,male,Skilled Employee,88302,22419,680,101600,Vehicle Loan,Family-Owned,24,0
+31,male,Skilled Employee,68865,15268,757,317500,Consumer Durable Loan,Self-Owned,30,0
+34,male,Unskilled Resident,21645,6556,831,143200,Consumer Durable Loan,Self-Owned,18,0
+61,male,Unskilled Resident,36467,14498,725,62750,Vehicle Loan,Self-Owned,12,0
+43,male,Skilled Employee,78000,18245,652,66650,Vehicle Loan,Family-Owned,24,0
+37,female,Skilled Employee,66737,28878,654,101100,Vehicle Loan,Self-Owned,24,0
+32,male,Skilled Employee,51485,21211,790,77600,Consumer Durable Loan,Self-Owned,24,0
+24,female,Unskilled Resident,20797,4128,702,31300,Consumer Durable Loan,Self-Owned,12,0
+35,male,Skilled Employee,65522,25283,719,442900,Vehicle Loan,Family-Owned,48,0
+23,female,Skilled Employee,94078,30328,769,49800,Home Renovation Loan,Self-Owned,12,0
+45,male,Unskilled Resident,37400,11966,487,87500,Consumer Durable Loan,Self-Owned,6,1
+34,male,Skilled Employee,92487,24722,880,349950,Consumer Durable Loan,Self-Owned,48,0
+27,male,Skilled Employee,52342,15720,661,99750,Vehicle Loan,Self-Owned,12,0
+67,female,Highly Skilled,130806,35206,739,59950,Education Loan,Self-Owned,9,0
+22,male,Skilled Employee,88770,27689,583,66550,Consumer Durable Loan,Self-Owned,12,0
+28,female,Skilled Employee,53087,17963,686,113900,Vehicle Loan,Self-Owned,18,0
+29,female,Skilled Employee,77641,27352,819,250150,Vehicle Loan,Self-Owned,21,0
+27,male,Skilled Employee,74249,22998,566,177600,Consumer Durable Loan,Self-Owned,24,1
+31,male,Unskilled Resident,25093,9194,810,96400,Consumer Durable Loan,Self-Owned,18,0
+49,male,Skilled Employee,95457,18364,698,148200,Vehicle Loan,Family-Owned,24,0
+24,male,Unskilled Resident,34835,7440,758,77300,Consumer Durable Loan,Rented,24,0
+29,female,Skilled Employee,87190,34494,772,34150,Consumer Durable Loan,Self-Owned,6,1
+37,male,Skilled Employee,56438,13926,755,619450,Vehicle Loan,Family-Owned,36,0
+37,male,Highly Skilled,195947,30737,650,235600,Business Loan,Self-Owned,24,0
+23,female,Skilled Employee,66399,13023,690,77650,Consumer Durable Loan,Rented,24,0
+36,male,Skilled Employee,59846,12991,603,68600,Vehicle Loan,Self-Owned,12,0
+34,male,Skilled Employee,55708,24355,759,128900,Consumer Durable Loan,Self-Owned,24,0
+41,male,Skilled Employee,84039,27053,856,198950,Consumer Durable Loan,Self-Owned,48,0
+31,female,Skilled Employee,89984,38676,574,337900,Consumer Durable Loan,Self-Owned,48,1
+23,female,Unskilled Resident,27600,8902,659,161700,Consumer Durable Loan,Rented,24,0
+38,male,Skilled Employee,50998,14983,705,297700,Consumer Durable Loan,Self-Owned,30,0
+26,female,Highly Skilled,145106,35423,733,271650,Vehicle Loan,Rented,24,0
+22,female,Unskilled Resident,29295,9723,790,40300,Business Loan,Self-Owned,15,0
+27,male,Unskilled Resident,25682,4924,707,54100,Consumer Durable Loan,Self-Owned,9,0
+24,female,Skilled Employee,89148,37395,694,139400,Consumer Durable Loan,Self-Owned,15,1
+27,female,Skilled Employee,48519,19349,808,146500,Consumer Durable Loan,Self-Owned,12,0
+33,female,Skilled Employee,96373,23636,772,96350,Education Loan,Self-Owned,24,0
+27,male,Skilled Employee,71480,31153,763,141000,Vehicle Loan,Self-Owned,36,0
+27,male,Unskilled Resident,34694,13792,729,46850,Education Loan,Self-Owned,24,0
+30,male,Skilled Employee,43300,15150,798,52800,Vehicle Loan,Self-Owned,18,0
+49,male,Unskilled Resident,21722,4051,667,156200,Vehicle Loan,Self-Owned,12,0
+26,female,Skilled Employee,79986,23473,656,69400,Consumer Durable Loan,Rented,9,0
+33,male,Unskilled Resident,39160,11819,779,119200,Home Renovation Loan,Rented,36,0
+52,female,Highly Skilled,175595,38589,589,106650,Vehicle Loan,Family-Owned,12,0
+20,female,Skilled Employee,75822,13192,727,101950,Consumer Durable Loan,Rented,18,0
+36,male,Skilled Employee,53575,20520,694,139950,Vehicle Loan,Rented,9,0
+21,male,Unskilled Resident,22970,4286,607,64450,Consumer Durable Loan,Self-Owned,12,0
+47,male,Unskilled Resident,17143,5627,645,60850,Personal Loan,Self-Owned,18,0
+60,male,Skilled Employee,61591,26541,711,112300,Consumer Durable Loan,Self-Owned,12,1
+58,female,Unskilled Resident,24503,10115,802,19250,Consumer Durable Loan,Self-Owned,12,0
+42,female,Skilled Employee,87917,20513,667,98250,Vehicle Loan,Rented,24,0
+36,female,Unskilled Resident,33922,13753,817,78600,Business Loan,Self-Owned,21,0
+20,female,Unskilled Resident,27175,4078,725,135900,Vehicle Loan,Rented,24,0
+40,male,Highly Skilled,144771,22483,824,67900,Personal Loan,Self-Owned,24,0
+32,female,Unskilled Resident,23356,7725,671,46550,Vehicle Loan,Self-Owned,6,0
+23,female,Skilled Employee,95764,24844,716,72100,Vehicle Loan,Rented,24,0
+36,male,Unskilled Resident,36389,9677,749,212050,Business Loan,Self-Owned,24,0
+31,male,Skilled Employee,87838,28049,705,138750,Vehicle Loan,Self-Owned,18,0
+32,male,Skilled Employee,40822,8471,796,193150,Business Loan,Family-Owned,24,0
+45,female,Skilled Employee,57327,12240,543,116450,Consumer Durable Loan,Self-Owned,7,0
+30,female,Skilled Employee,87057,25714,900,45900,Consumer Durable Loan,Self-Owned,9,0
+34,female,Unskilled Resident,21150,7958,788,91850,Education Loan,Family-Owned,24,0
+28,female,Highly Skilled,94425,31712,706,167450,Consumer Durable Loan,Self-Owned,36,0
+23,female,Skilled Employee,98118,23470,675,63750,Consumer Durable Loan,Self-Owned,10,0
+22,male,Skilled Employee,56032,15638,650,141400,Consumer Durable Loan,Self-Owned,24,0
+74,male,Highly Skilled,92198,18550,771,226300,Business Loan,Self-Owned,24,0
+50,female,Skilled Employee,93394,16100,799,133550,Consumer Durable Loan,Family-Owned,36,0
+33,male,Skilled Employee,60079,23118,706,102550,Consumer Durable Loan,Self-Owned,18,0
+45,male,Skilled Employee,76220,17501,808,65000,Vehicle Loan,Family-Owned,15,0
+22,female,Skilled Employee,81874,16647,647,37050,Personal Loan,Self-Owned,12,1
+48,female,Unskilled Resident,28859,10316,633,62000,Vehicle Loan,Family-Owned,10,1
+29,female,Skilled Employee,90460,30341,865,167850,Consumer Durable Loan,Self-Owned,21,0
+22,female,Skilled Employee,71419,24279,767,181600,Vehicle Loan,Rented,24,0
+22,female,Skilled Employee,93329,20408,831,90400,Consumer Durable Loan,Self-Owned,18,0
+48,male,Highly Skilled,98705,21694,651,610200,Business Loan,Self-Owned,48,1
+27,male,Highly Skilled,132880,28734,646,457850,Consumer Durable Loan,Family-Owned,60,0
+37,male,Skilled Employee,63236,12781,691,183800,Vehicle Loan,Rented,6,0
+21,female,Skilled Employee,62419,21641,654,172050,Consumer Durable Loan,Rented,30,0
+49,male,Unskilled Resident,34978,14145,776,32000,Vehicle Loan,Self-Owned,12,0
+27,male,Skilled Employee,77609,28505,659,182600,Business Loan,Self-Owned,21,0
+32,male,Skilled Employee,55358,21458,626,76500,Vehicle Loan,Self-Owned,18,1
+38,male,Skilled Employee,74177,20134,731,195700,Business Loan,Self-Owned,48,0
+22,female,Skilled Employee,69378,24020,616,92900,Consumer Durable Loan,Rented,12,1
+65,male,Skilled Employee,77334,19818,576,130000,Consumer Durable Loan,Family-Owned,18,0
+35,male,Skilled Employee,51382,15807,730,98950,Consumer Durable Loan,Self-Owned,15,0
+41,male,Skilled Employee,93643,27576,580,105800,Consumer Durable Loan,Self-Owned,6,0
+29,male,Skilled Employee,90707,18419,782,71850,Vehicle Loan,Self-Owned,9,0
+36,male,Skilled Employee,54596,14529,608,202100,Consumer Durable Loan,Self-Owned,42,1
+64,male,Unskilled Resident,15804,6940,540,191600,Education Loan,Self-Owned,9,1
+28,female,Skilled Employee,53221,11952,696,183000,Consumer Durable Loan,Self-Owned,24,0
+44,male,Skilled Employee,41279,7848,731,77650,Consumer Durable Loan,Self-Owned,18,0
+23,male,Skilled Employee,85960,23688,759,72200,Consumer Durable Loan,Self-Owned,15,1
+19,female,Skilled Employee,47083,18225,733,99000,Consumer Durable Loan,Rented,9,0
+25,female,Unskilled Resident,37370,12131,635,67750,Vehicle Loan,Self-Owned,24,0
+47,male,Skilled Employee,94771,33576,777,69650,Education Loan,Self-Owned,12,0
+28,female,Skilled Employee,83861,17351,796,68800,Consumer Durable Loan,Self-Owned,24,0
+21,male,Skilled Employee,57771,19392,623,782650,Consumer Durable Loan,Self-Owned,60,0
+34,female,Skilled Employee,69975,17287,705,74650,Consumer Durable Loan,Self-Owned,12,0
+26,male,Skilled Employee,85648,34284,698,218500,Consumer Durable Loan,Self-Owned,42,1
+27,female,Unskilled,42337,14343,737,37500,Education Loan,Self-Owned,18,0
+38,male,Unskilled Resident,30517,6398,703,65400,Home Renovation Loan,Self-Owned,15,0
+40,male,Highly Skilled,109063,18473,714,231150,Education Loan,Self-Owned,15,1
+33,male,Skilled Employee,42106,6854,771,92550,Consumer Durable Loan,Self-Owned,24,0
+32,male,Highly Skilled,180093,47080,630,94000,Consumer Durable Loan,Self-Owned,18,0
+27,male,Skilled Employee,88854,20414,778,399000,Business Loan,Rented,36,0
+32,male,Skilled Employee,60607,20838,811,229150,Consumer Durable Loan,Self-Owned,30,0
+26,female,Skilled Employee,77599,23264,850,69300,Vehicle Loan,Self-Owned,12,0
+38,male,Skilled Employee,91920,21123,548,47350,Vehicle Loan,Family-Owned,24,0
+40,male,Unskilled Resident,43529,8478,705,34200,Education Loan,Rented,12,0
+50,male,Highly Skilled,125954,23699,562,373800,Education Loan,Family-Owned,48,0
+37,male,Unskilled Resident,42856,17545,525,96100,Consumer Durable Loan,Self-Owned,12,1
+45,male,Skilled Employee,42573,9495,731,115150,Vehicle Loan,Self-Owned,24,0
+42,male,Highly Skilled,168344,58165,688,404300,Vehicle Loan,Self-Owned,36,0
+35,male,Skilled Employee,75367,29634,743,117300,Vehicle Loan,Self-Owned,24,0
+22,male,Skilled Employee,76801,25668,758,198650,Vehicle Loan,Family-Owned,14,0
+41,male,Unskilled Resident,23428,9555,819,44400,Vehicle Loan,Self-Owned,12,0
+37,male,Skilled Employee,74072,19830,724,511100,Consumer Durable Loan,Self-Owned,48,0
+28,female,Skilled Employee,63752,27851,900,211050,Business Loan,Self-Owned,30,0
+41,male,Skilled Employee,95029,18050,744,318050,Consumer Durable Loan,Self-Owned,18,0
+23,male,Skilled Employee,57685,10420,867,64850,Consumer Durable Loan,Rented,12,0
+23,male,Skilled Employee,91693,31873,533,45000,Vehicle Loan,Self-Owned,12,1
+50,male,Skilled Employee,91203,39477,827,112050,Consumer Durable Loan,Self-Owned,21,1
+35,male,Highly Skilled,145961,57313,705,52500,Consumer Durable Loan,Self-Owned,6,1
+50,female,Unskilled Resident,23633,4086,564,52350,Education Loan,Self-Owned,6,1
+27,male,Highly Skilled,166908,39024,753,315700,Personal Loan,Self-Owned,24,0
+34,male,Skilled Employee,48996,21023,695,174800,Consumer Durable Loan,Self-Owned,30,0
+27,female,Skilled Employee,56458,12754,766,180450,Business Loan,Self-Owned,48,0
+43,male,Skilled Employee,96133,36948,800,242150,Vehicle Loan,Rented,12,0
+47,male,Skilled Employee,71889,28578,600,150850,Consumer Durable Loan,Self-Owned,30,1
+27,male,Unskilled Resident,41751,12468,801,206950,Business Loan,Self-Owned,24,0
+31,male,Skilled Employee,66665,17726,720,287100,Business Loan,Self-Owned,36,0
+42,male,Highly Skilled,128243,36554,828,518300,Vehicle Loan,Self-Owned,60,0
+24,male,Skilled Employee,97384,21238,703,104000,Vehicle Loan,Self-Owned,6,0
+41,male,Unskilled Resident,41657,17363,682,129000,Business Loan,Self-Owned,21,1
+26,female,Highly Skilled,129952,37060,722,226500,Consumer Durable Loan,Rented,30,0
+33,male,Skilled Employee,62180,25788,728,257500,Consumer Durable Loan,Self-Owned,24,0
+24,male,Skilled Employee,71896,13064,666,279750,Consumer Durable Loan,Self-Owned,72,0
+64,male,Unskilled Resident,38525,17200,680,119200,Consumer Durable Loan,Rented,24,0
+26,female,Skilled Employee,52875,14962,621,72650,Consumer Durable Loan,Self-Owned,18,0
+56,female,Skilled Employee,41622,6840,685,76900,Education Loan,Self-Owned,6,0
+37,male,Skilled Employee,88756,14325,774,113950,Consumer Durable Loan,Family-Owned,12,0
+33,male,Skilled Employee,80809,30211,709,73900,Consumer Durable Loan,Self-Owned,15,0
+47,male,Skilled Employee,56725,19723,800,255150,Consumer Durable Loan,Family-Owned,24,0
+31,male,Unskilled Resident,43628,17042,705,492850,Business Loan,Self-Owned,36,1
+34,male,Skilled Employee,91226,16567,605,326350,Vehicle Loan,Family-Owned,60,0
+27,male,Skilled Employee,80760,12975,767,67350,Consumer Durable Loan,Self-Owned,10,0
+30,male,Skilled Employee,55646,16837,666,143100,Vehicle Loan,Family-Owned,36,0
+35,male,Skilled Employee,57029,15185,701,137650,Consumer Durable Loan,Self-Owned,9,0
+31,male,Skilled Employee,69402,20028,819,182550,Vehicle Loan,Self-Owned,12,0
+25,male,Skilled Employee,44263,19806,627,48750,Consumer Durable Loan,Self-Owned,15,0
+25,female,Unskilled Resident,40185,17730,733,131550,Home Renovation Loan,Self-Owned,15,1
+29,male,Skilled Employee,70987,30715,716,144800,Consumer Durable Loan,Self-Owned,24,0
+44,male,Unskilled Resident,29060,11192,776,235800,Vehicle Loan,Self-Owned,6,0
+28,male,Skilled Employee,95288,24436,788,114200,Consumer Durable Loan,Self-Owned,24,0
+50,male,Skilled Employee,87924,24059,741,61800,Vehicle Loan,Rented,6,0
+29,male,Skilled Employee,48646,15317,691,55150,Consumer Durable Loan,Self-Owned,12,0
+38,female,Unskilled,42529,16975,757,46300,Vehicle Loan,Self-Owned,12,1
+24,male,Skilled Employee,99052,16899,826,90000,Consumer Durable Loan,Self-Owned,18,0
+40,male,Highly Skilled,101664,28190,717,95250,Education Loan,Rented,15,0
+29,female,Unskilled Resident,17969,3140,698,56150,Consumer Durable Loan,Rented,12,0
+46,male,Skilled Employee,75796,23072,751,316550,Vehicle Loan,Family-Owned,48,0
+47,female,Skilled Employee,64027,26870,723,68850,Consumer Durable Loan,Family-Owned,24,1
+41,male,Skilled Employee,69373,26690,612,125150,Business Loan,Self-Owned,30,1
+32,female,Skilled Employee,91833,20051,739,126400,Business Loan,Self-Owned,27,0
+35,female,Skilled Employee,76397,33828,612,266200,Vehicle Loan,Family-Owned,15,1
+24,male,Skilled Employee,60609,21225,749,328000,Vehicle Loan,Self-Owned,48,1
+25,female,Skilled Employee,75835,11612,656,148450,Consumer Durable Loan,Rented,12,0
+25,female,Skilled Employee,78709,17837,722,60300,Consumer Durable Loan,Self-Owned,9,0
+37,male,Unskilled Resident,32770,7478,751,105900,Consumer Durable Loan,Self-Owned,9,0
+32,male,Highly Skilled,151120,25807,900,31450,Consumer Durable Loan,Self-Owned,18,0
+35,female,Skilled Employee,59250,25948,779,59900,Education Loan,Family-Owned,6,0
+46,male,Highly Skilled,111172,32626,829,123800,Vehicle Loan,Self-Owned,21,0
+25,male,Unskilled Resident,26555,11119,869,56900,Consumer Durable Loan,Self-Owned,9,0
+27,male,Highly Skilled,177410,43760,759,701350,Vehicle Loan,Self-Owned,60,0
+63,male,Skilled Employee,53081,9956,742,379800,Vehicle Loan,Self-Owned,30,0
+40,male,Skilled Employee,93276,27264,634,153850,Consumer Durable Loan,Self-Owned,30,1
+32,male,Highly Skilled,147492,27166,710,75250,Consumer Durable Loan,Family-Owned,18,0
+31,male,Skilled Employee,93002,27510,662,157400,Consumer Durable Loan,Self-Owned,24,0
+31,male,Skilled Employee,94567,40293,687,307400,Vehicle Loan,Self-Owned,20,1
+34,male,Highly Skilled,179599,54998,869,66850,Consumer Durable Loan,Self-Owned,9,1
+24,female,Skilled Employee,46819,15682,729,21650,Education Loan,Rented,6,0
+24,female,Unskilled Resident,40712,8019,649,61400,Vehicle Loan,Self-Owned,12,1
+66,female,Unskilled Resident,39762,6486,829,39500,Consumer Durable Loan,Self-Owned,9,1
+21,female,Skilled Employee,51046,9353,796,128500,Vehicle Loan,Rented,27,0
+41,female,Unskilled Resident,40826,13454,800,12500,Vehicle Loan,Self-Owned,6,0
+47,male,Unskilled Resident,32717,5840,559,65800,Consumer Durable Loan,Self-Owned,15,1
+25,female,Skilled Employee,68769,18072,875,94100,Consumer Durable Loan,Rented,18,0
+59,female,Skilled Employee,93302,29392,675,320800,Business Loan,Rented,48,0
+36,male,Skilled Employee,63150,16835,782,63750,Business Loan,Self-Owned,24,0
+33,male,Skilled Employee,42711,8503,900,320150,Consumer Durable Loan,Self-Owned,24,0
+21,male,Unskilled Resident,19853,4608,892,99350,Consumer Durable Loan,Rented,24,0
+44,female,Unskilled Resident,44077,18886,641,38000,Consumer Durable Loan,Self-Owned,8,1
+28,female,Skilled Employee,95364,33643,604,130150,Vehicle Loan,Rented,24,1
+37,female,Skilled Employee,63863,19083,834,169000,Vehicle Loan,Self-Owned,4,0
+29,female,Unskilled,36792,5659,731,199500,Personal Loan,Self-Owned,36,0
+23,female,Highly Skilled,149129,66768,679,578000,Vehicle Loan,Rented,24,0
+35,male,Unskilled Resident,22715,7982,769,219000,Vehicle Loan,Self-Owned,18,1
+45,male,Highly Skilled,164478,40309,706,338050,Vehicle Loan,Self-Owned,6,0
+26,female,Unskilled Resident,30507,12623,776,214000,Business Loan,Rented,30,1
+32,male,Skilled Employee,88594,20157,725,116250,Vehicle Loan,Self-Owned,24,0
+23,male,Unskilled Resident,16762,5249,777,52400,Consumer Durable Loan,Self-Owned,10,0
+41,male,Skilled Employee,71987,24534,648,158000,Consumer Durable Loan,Self-Owned,21,1
+22,male,Skilled Employee,55850,12081,833,124150,Consumer Durable Loan,Self-Owned,24,0
+30,male,Highly Skilled,102112,45288,775,708950,Consumer Durable Loan,Self-Owned,39,0
+28,male,Unskilled Resident,38485,14410,771,89850,Business Loan,Self-Owned,13,0
+23,female,Skilled Employee,64058,20328,630,125550,Vehicle Loan,Rented,15,0
+37,female,Unskilled Resident,27652,5645,855,63700,Vehicle Loan,Self-Owned,12,0
+26,male,Skilled Employee,78890,13108,718,262400,Vehicle Loan,Self-Owned,21,0
+33,male,Skilled Employee,40481,9959,778,151450,Vehicle Loan,Self-Owned,15,0
+49,female,Skilled Employee,87304,32822,694,21400,Consumer Durable Loan,Self-Owned,6,0
+23,female,Unskilled Resident,15153,3497,740,48800,Vehicle Loan,Self-Owned,18,0
+23,female,Unskilled Resident,22617,7053,743,42050,Business Loan,Rented,12,0
+25,female,Skilled Employee,41524,15296,494,288550,Consumer Durable Loan,Self-Owned,30,1
+55,male,Skilled Employee,74888,13658,766,77750,Home Renovation Loan,Family-Owned,12,0
+32,female,Skilled Employee,55048,19574,877,64250,Vehicle Loan,Rented,24,0
+74,male,Unskilled,17343,3079,763,64950,Vehicle Loan,Self-Owned,6,0
+39,male,Skilled Employee,77904,34241,643,63550,Consumer Durable Loan,Family-Owned,15,1
+31,male,Skilled Employee,94912,28143,771,69650,Vehicle Loan,Self-Owned,24,0
+35,male,Skilled Employee,74008,14446,804,34550,Vehicle Loan,Self-Owned,12,0
+59,female,Skilled Employee,40060,10123,760,252250,Vehicle Loan,Self-Owned,15,0
+24,female,Skilled Employee,49130,13462,714,106200,Consumer Durable Loan,Rented,18,0
+24,male,Unskilled Resident,33023,12464,700,110700,Consumer Durable Loan,Self-Owned,12,1
+30,male,Highly Skilled,145337,54214,700,634000,Vehicle Loan,Family-Owned,21,0
+27,male,Skilled Employee,85080,28381,775,123150,Vehicle Loan,Self-Owned,24,0
+40,male,Unskilled Resident,28350,5153,607,57750,Consumer Durable Loan,Self-Owned,12,1
+31,male,Unskilled Resident,39354,7692,690,155400,Consumer Durable Loan,Self-Owned,30,0
+31,female,Skilled Employee,85186,15173,847,145050,Vehicle Loan,Rented,10,0
+28,male,Skilled Employee,68145,22021,850,180850,Consumer Durable Loan,Rented,12,0
+63,male,Unskilled Resident,16252,6714,601,82750,Consumer Durable Loan,Self-Owned,12,0
+26,female,Skilled Employee,60587,16972,629,140600,Vehicle Loan,Rented,24,0
+25,female,Highly Skilled,196667,38990,698,403250,Education Loan,Self-Owned,36,0
+36,male,Highly Skilled,165186,52432,791,163750,Vehicle Loan,Self-Owned,21,1
+52,male,Skilled Employee,59933,23585,573,111150,Consumer Durable Loan,Self-Owned,24,1
+66,male,Unskilled,35581,13254,715,74000,Vehicle Loan,Family-Owned,12,0
+25,female,Skilled Employee,63393,26272,682,68550,Vehicle Loan,Rented,24,0
+37,male,Skilled Employee,63051,14714,826,176750,Vehicle Loan,Self-Owned,36,0
+25,female,Skilled Employee,91474,19043,585,175450,Consumer Durable Loan,Self-Owned,18,0
+38,male,Highly Skilled,181748,75233,727,285550,Vehicle Loan,Self-Owned,36,0
+67,female,Skilled Employee,89082,30935,688,193600,Home Renovation Loan,Self-Owned,18,0
+25,male,Skilled Employee,44090,10726,837,246650,Consumer Durable Loan,Self-Owned,39,0
+60,male,Skilled Employee,46960,17502,767,97000,Vehicle Loan,Self-Owned,24,0
+31,male,Unskilled Resident,18004,7103,673,70500,Education Loan,Self-Owned,12,1
+23,female,Unskilled Resident,36520,12215,788,41800,Vehicle Loan,Self-Owned,12,0
+60,male,Highly Skilled,139481,49706,688,323400,Vehicle Loan,Self-Owned,20,1
+35,male,Unskilled Resident,18640,4894,799,97050,Business Loan,Self-Owned,18,0
+40,male,Skilled Employee,68470,21335,701,133750,Consumer Durable Loan,Self-Owned,22,0
+38,male,Skilled Employee,97134,29844,804,137550,Vehicle Loan,Self-Owned,48,0
+50,male,Skilled Employee,60491,24463,754,311200,Education Loan,Family-Owned,48,0
+27,male,Skilled Employee,41341,16618,900,299900,Education Loan,Self-Owned,40,0
+39,female,Skilled Employee,84623,33832,715,59400,Business Loan,Self-Owned,21,0
+41,male,Highly Skilled,180327,27645,750,315650,Vehicle Loan,Self-Owned,24,0
+27,male,Skilled Employee,40338,15121,681,61050,Consumer Durable Loan,Self-Owned,6,0
+51,male,Skilled Employee,45895,17330,720,144600,Consumer Durable Loan,Family-Owned,24,1
+32,male,Skilled Employee,52254,18472,503,153100,Consumer Durable Loan,Rented,24,0
+22,female,Skilled Employee,91860,34620,757,115050,Consumer Durable Loan,Rented,9,1
+51,male,Skilled Employee,51344,20670,827,375550,Vehicle Loan,Family-Owned,18,1
+22,female,Unskilled Resident,16750,4875,751,62900,Consumer Durable Loan,Rented,12,0
+54,male,Skilled Employee,94756,28485,614,35850,Vehicle Loan,Self-Owned,24,0
+35,male,Unskilled,17421,3264,655,77450,Vehicle Loan,Self-Owned,9,0
+54,male,Skilled Employee,79887,21219,525,79850,Education Loan,Family-Owned,24,1
+48,female,Unskilled Resident,40285,13818,798,89750,Consumer Durable Loan,Rented,18,0
+24,female,Skilled Employee,45319,17407,639,213600,Consumer Durable Loan,Self-Owned,20,1
+35,male,Skilled Employee,55896,12026,717,48800,Consumer Durable Loan,Self-Owned,12,0
+24,female,Unskilled,37993,7269,707,373600,Vehicle Loan,Rented,12,0
+24,male,Skilled Employee,94539,32985,839,463550,Vehicle Loan,Self-Owned,36,0
+26,male,Unskilled Resident,26918,4052,726,29500,Consumer Durable Loan,Self-Owned,6,0
+65,male,Skilled Employee,93145,18956,784,46500,Consumer Durable Loan,Self-Owned,12,0
+55,male,Highly Skilled,180600,28665,763,464150,Vehicle Loan,Family-Owned,42,0
+26,female,Unskilled,39428,7888,828,88900,Vehicle Loan,Rented,15,0
+26,male,Skilled Employee,86617,17704,700,45350,Business Loan,Self-Owned,8,0
+28,male,Unskilled Resident,39622,10551,869,24200,Consumer Durable Loan,Self-Owned,6,1
+24,male,Skilled Employee,67935,18389,561,481450,Vehicle Loan,Self-Owned,36,0
+54,male,Skilled Employee,77641,32009,788,152550,Personal Loan,Self-Owned,48,0
+46,male,Skilled Employee,69711,21124,650,196550,Vehicle Loan,Family-Owned,48,0
+54,female,Skilled Employee,44806,16444,680,371600,Vehicle Loan,Rented,36,0
+62,male,Skilled Employee,81360,14745,765,66900,Personal Loan,Self-Owned,6,0
+24,female,Skilled Employee,52182,11356,764,77700,Consumer Durable Loan,Rented,6,0
+43,male,Highly Skilled,177833,64176,768,792850,Personal Loan,Self-Owned,36,0
+26,male,Skilled Employee,96276,15966,609,67250,Consumer Durable Loan,Self-Owned,18,0
+27,male,Skilled Employee,59541,17622,835,55050,Vehicle Loan,Self-Owned,12,0
+24,male,Skilled Employee,68921,22730,647,150800,Consumer Durable Loan,Self-Owned,12,1
+41,male,Skilled Employee,56774,18771,658,135600,Consumer Durable Loan,Self-Owned,36,0
+47,male,Unskilled Resident,27045,4242,771,36550,Vehicle Loan,Self-Owned,8,1
+35,male,Highly Skilled,127198,31371,697,189000,Consumer Durable Loan,Self-Owned,18,0
+30,male,Skilled Employee,48820,16645,744,80100,Vehicle Loan,Self-Owned,21,0
+33,female,Skilled Employee,64070,12474,547,198300,Vehicle Loan,Rented,18,1
+36,male,Skilled Employee,44232,15862,742,208250,Business Loan,Self-Owned,18,0
+47,male,Skilled Employee,51122,19108,737,416750,Vehicle Loan,Family-Owned,36,1
+38,male,Skilled Employee,55023,24462,679,334050,Business Loan,Family-Owned,48,1
+44,male,Skilled Employee,48007,10223,554,118750,Business Loan,Self-Owned,24,1
+23,female,Skilled Employee,57905,23019,702,60800,Vehicle Loan,Rented,18,1
+29,male,Skilled Employee,81786,25033,717,590800,Business Loan,Rented,45,0
+42,female,Skilled Employee,69398,18184,690,254200,Consumer Durable Loan,Self-Owned,24,0
+25,female,Unskilled Resident,16500,3080,573,116350,Consumer Durable Loan,Self-Owned,15,0
+48,male,Skilled Employee,46737,17323,847,54100,Vehicle Loan,Self-Owned,12,1
+21,female,Skilled Employee,76062,16791,668,44300,Consumer Durable Loan,Self-Owned,12,0
+23,female,Unskilled Resident,36469,9533,702,30050,Consumer Durable Loan,Rented,4,1
+63,male,Skilled Employee,91571,15453,527,147850,Vehicle Loan,Self-Owned,24,1
+46,male,Skilled Employee,65510,25575,847,130550,Consumer Durable Loan,Self-Owned,24,0
+29,male,Skilled Employee,59426,22580,682,258950,Consumer Durable Loan,Self-Owned,36,1
+28,male,Unskilled Resident,19497,7215,727,149650,Vehicle Loan,Self-Owned,21,1
+23,female,Skilled Employee,57850,13874,809,97150,Home Renovation Loan,Self-Owned,18,0
+50,male,Skilled Employee,92713,18732,665,77950,Business Loan,Self-Owned,24,0
+47,male,Skilled Employee,40614,13860,797,171100,Consumer Durable Loan,Self-Owned,18,0
+35,male,Skilled Employee,61776,18461,555,198800,Consumer Durable Loan,Self-Owned,21,0
+68,male,Skilled Employee,64077,13038,764,338050,Vehicle Loan,Rented,18,0
+28,male,Skilled Employee,49374,17565,845,62450,Vehicle Loan,Self-Owned,24,1
+59,male,Skilled Employee,92375,41322,673,68200,Consumer Durable Loan,Self-Owned,9,0
+57,male,Unskilled Resident,38522,14413,809,35450,Consumer Durable Loan,Self-Owned,12,0
+33,male,Skilled Employee,75435,28061,866,111750,Vehicle Loan,Rented,20,0
+43,male,Skilled Employee,70907,30851,699,202100,Vehicle Loan,Self-Owned,24,1
+35,male,Skilled Employee,97132,20483,692,73550,Consumer Durable Loan,Family-Owned,15,0
+32,male,Unskilled Resident,28409,9081,648,72100,Vehicle Loan,Family-Owned,18,0
+45,male,Skilled Employee,56514,25086,679,543750,Vehicle Loan,Self-Owned,36,0
+33,male,Skilled Employee,69866,13944,654,73700,Vehicle Loan,Self-Owned,24,0
+40,female,Skilled Employee,42983,15477,648,44700,Education Loan,Self-Owned,10,1
+28,male,Skilled Employee,71705,23357,815,167150,Consumer Durable Loan,Family-Owned,15,0
+29,female,Skilled Employee,60662,19772,656,197950,Vehicle Loan,Self-Owned,15,0
+26,male,Skilled Employee,63510,22819,740,178850,Vehicle Loan,Rented,9,1
+27,male,Skilled Employee,52651,22581,723,290200,Vehicle Loan,Self-Owned,24,1
+28,male,Skilled Employee,80998,31165,839,108450,Business Loan,Self-Owned,18,0
+35,female,Skilled Employee,96846,16157,679,121950,Consumer Durable Loan,Self-Owned,24,1
+32,male,Unskilled Resident,43535,17667,750,226300,Consumer Durable Loan,Self-Owned,27,0
+25,male,Unskilled Resident,21640,4710,783,110500,Consumer Durable Loan,Rented,10,0
+20,female,Skilled Employee,84547,22242,839,111050,Consumer Durable Loan,Rented,15,0
+27,female,Skilled Employee,94620,27299,678,119450,Consumer Durable Loan,Self-Owned,18,0
+42,male,Skilled Employee,55317,16278,670,166550,Consumer Durable Loan,Self-Owned,12,0
+37,male,Skilled Employee,90072,25270,635,370450,Business Loan,Self-Owned,36,0
+24,female,Skilled Employee,47564,20509,898,32600,Consumer Durable Loan,Rented,12,0
+40,female,Skilled Employee,67345,24365,830,383900,Consumer Durable Loan,Self-Owned,36,1
+46,male,Skilled Employee,88288,29960,716,67150,Vehicle Loan,Self-Owned,6,0
+26,male,Skilled Employee,68687,11330,874,69100,Business Loan,Self-Owned,24,0
+24,female,Skilled Employee,97836,41205,711,43700,Personal Loan,Self-Owned,15,0
+29,male,Unskilled Resident,28737,12150,777,179500,Consumer Durable Loan,Self-Owned,12,0
+40,female,Skilled Employee,49323,18943,720,66100,Vehicle Loan,Self-Owned,11,0
+36,male,Highly Skilled,170765,25974,751,97000,Consumer Durable Loan,Family-Owned,18,0
+28,male,Skilled Employee,84481,14123,743,179750,Consumer Durable Loan,Self-Owned,36,0
+27,male,Highly Skilled,164038,35689,686,71100,Vehicle Loan,Family-Owned,9,0
+36,male,Skilled Employee,98082,18577,807,337100,Consumer Durable Loan,Self-Owned,30,0
+38,male,Highly Skilled,142393,38396,777,390700,Vehicle Loan,Self-Owned,24,0
+48,male,Skilled Employee,40545,17304,802,463850,Vehicle Loan,Family-Owned,24,0
+36,male,Skilled Employee,99805,29104,745,109050,Vehicle Loan,Self-Owned,30,0
+65,female,Unskilled,19346,2979,647,54900,Consumer Durable Loan,Self-Owned,18,1
+43,male,Skilled Employee,69430,16303,856,202850,Consumer Durable Loan,Self-Owned,24,0
+53,female,Skilled Employee,49996,8168,698,39750,Education Loan,Self-Owned,12,0
+34,male,Skilled Employee,67788,10906,749,141250,Business Loan,Self-Owned,24,0
+23,male,Skilled Employee,69969,16282,770,783600,Business Loan,Self-Owned,48,0
+34,male,Highly Skilled,138543,32236,748,330700,Vehicle Loan,Self-Owned,36,0
+40,male,Skilled Employee,53919,20820,793,391200,Vehicle Loan,Rented,28,0
+43,male,Highly Skilled,159346,70502,805,122100,Business Loan,Self-Owned,27,0
+46,male,Skilled Employee,70586,18448,702,91450,Consumer Durable Loan,Self-Owned,15,0
+38,male,Unskilled Resident,22206,6188,850,108550,Vehicle Loan,Self-Owned,12,0
+34,male,Skilled Employee,81773,32990,698,290000,Vehicle Loan,Self-Owned,36,0
+29,male,Skilled Employee,56371,12990,746,58450,Consumer Durable Loan,Self-Owned,18,0
+31,male,Highly Skilled,135084,26600,688,447350,Vehicle Loan,Self-Owned,36,0
+28,female,Highly Skilled,119629,48560,666,130300,Consumer Durable Loan,Rented,21,1
+35,female,Skilled Employee,91184,14949,803,79600,Consumer Durable Loan,Self-Owned,12,0
+33,female,Unskilled Resident,44148,14829,900,109300,Consumer Durable Loan,Rented,15,0
+42,male,Skilled Employee,48436,15431,691,207650,Consumer Durable Loan,Self-Owned,18,0
+43,male,Skilled Employee,52984,13446,817,131250,Vehicle Loan,Rented,16,0
+44,male,Skilled Employee,73039,17862,693,174250,Vehicle Loan,Self-Owned,20,0
+42,male,Skilled Employee,59895,22853,719,523850,Vehicle Loan,Family-Owned,36,0
+40,male,Skilled Employee,58155,10231,860,69300,Consumer Durable Loan,Rented,15,0
+36,male,Highly Skilled,148606,32847,634,63900,Consumer Durable Loan,Self-Owned,24,0
+20,male,Highly Skilled,100616,37201,612,55350,Consumer Durable Loan,Rented,12,1
+24,male,Unskilled Resident,19361,6088,713,188150,Vehicle Loan,Self-Owned,21,0
+27,male,Skilled Employee,79837,15041,773,185550,Education Loan,Self-Owned,36,0
+46,female,Unskilled Resident,32304,13394,757,179700,Vehicle Loan,Self-Owned,15,1
+33,female,Unskilled Resident,39574,10607,748,159750,Vehicle Loan,Self-Owned,9,0
+34,female,Skilled Employee,43430,17300,722,222700,Consumer Durable Loan,Self-Owned,36,0
+25,female,Unskilled Resident,35819,13837,782,236800,Consumer Durable Loan,Self-Owned,24,0
+25,female,Skilled Employee,52676,17769,486,149550,Consumer Durable Loan,Self-Owned,30,1
+28,male,Skilled Employee,50816,15160,659,107100,Business Loan,Self-Owned,11,0
+31,male,Skilled Employee,72733,32283,712,158050,Business Loan,Rented,24,1
+32,female,Highly Skilled,175680,33992,776,921200,Personal Loan,Self-Owned,48,0
+32,male,Skilled Employee,42050,15455,839,142400,Vehicle Loan,Self-Owned,10,0
+68,male,Highly Skilled,199996,41470,649,744800,Vehicle Loan,Self-Owned,6,1
+33,male,Skilled Employee,73933,18592,836,117950,Consumer Durable Loan,Self-Owned,24,0
+39,male,Highly Skilled,114951,27888,683,167250,Consumer Durable Loan,Rented,24,0
+28,female,Skilled Employee,72413,31435,709,90850,Consumer Durable Loan,Self-Owned,18,0
+37,male,Highly Skilled,124801,54938,766,637450,Consumer Durable Loan,Self-Owned,48,1
+22,female,Skilled Employee,95619,19592,703,68300,Consumer Durable Loan,Rented,9,0
+30,male,Skilled Employee,72913,11418,808,100100,Vehicle Loan,Rented,12,0
+55,male,Skilled Employee,87037,31855,687,343600,Consumer Durable Loan,Self-Owned,24,0
+46,male,Skilled Employee,93540,25760,688,34850,Vehicle Loan,Self-Owned,12,0
+21,female,Skilled Employee,80600,14238,804,52450,Consumer Durable Loan,Rented,18,0
+39,male,Skilled Employee,97775,34722,658,514850,Vehicle Loan,Family-Owned,48,0
+58,male,Skilled Employee,65280,20467,739,93350,Consumer Durable Loan,Self-Owned,30,0
+43,male,Unskilled Resident,39557,17569,587,67200,Vehicle Loan,Self-Owned,12,0
+24,male,Unskilled Resident,29286,6390,865,87350,Consumer Durable Loan,Self-Owned,24,0
+22,female,Skilled Employee,75400,20447,816,83500,Consumer Durable Loan,Self-Owned,9,0
+30,male,Skilled Employee,44494,13916,900,61200,Vehicle Loan,Self-Owned,9,0
+42,male,Skilled Employee,55152,21371,827,26100,Consumer Durable Loan,Self-Owned,12,1
+23,female,Skilled Employee,97208,30586,629,74900,Consumer Durable Loan,Self-Owned,12,0
+30,male,Highly Skilled,179431,59906,773,95950,Consumer Durable Loan,Self-Owned,30,0
+28,female,Unskilled Resident,24155,5262,646,37250,Consumer Durable Loan,Self-Owned,9,0
+30,male,Highly Skilled,187419,75731,846,103150,Consumer Durable Loan,Rented,6,0
+42,male,Skilled Employee,83194,23176,631,314400,Education Loan,Family-Owned,60,0
+46,male,Highly Skilled,133001,25574,628,342100,Vehicle Loan,Self-Owned,24,1
+45,male,Highly Skilled,157364,54960,591,176350,Vehicle Loan,Self-Owned,12,1
+31,male,Unskilled Resident,41684,8954,680,77300,Vehicle Loan,Self-Owned,10,0
+31,male,Skilled Employee,85028,15242,664,46450,Consumer Durable Loan,Self-Owned,24,0
+42,male,Unskilled Resident,24130,9859,619,72750,Vehicle Loan,Self-Owned,4,1
+46,female,Skilled Employee,72123,20774,879,92250,Consumer Durable Loan,Rented,15,0
+30,female,Skilled Employee,77573,29073,762,417900,Vehicle Loan,Self-Owned,48,0
+30,male,Skilled Employee,40806,9678,752,167450,Consumer Durable Loan,Family-Owned,24,0
+38,male,Highly Skilled,146638,56615,847,142950,Vehicle Loan,Self-Owned,12,0
+43,male,Unskilled Resident,44997,8260,740,76650,Consumer Durable Loan,Self-Owned,18,0
+31,male,Skilled Employee,80970,20792,660,181050,Consumer Durable Loan,Self-Owned,24,0
+40,male,Unskilled,44757,19846,583,179500,Business Loan,Self-Owned,18,1
+24,male,Skilled Employee,74636,28973,655,107250,Business Loan,Self-Owned,36,0
+28,female,Skilled Employee,54561,16323,840,205650,Vehicle Loan,Rented,24,0
+26,female,Highly Skilled,138280,34837,619,548700,Consumer Durable Loan,Self-Owned,36,0
+29,female,Skilled Employee,64262,26452,748,94650,Vehicle Loan,Self-Owned,12,1
+57,female,Highly Skilled,170435,53423,802,61550,Consumer Durable Loan,Rented,24,0
+49,male,Unskilled Resident,44443,16778,742,182800,Consumer Durable Loan,Self-Owned,30,0
+37,male,Unskilled Resident,37074,13948,751,57700,Consumer Durable Loan,Self-Owned,9,0
+45,male,Unskilled Resident,39211,6092,772,200300,Vehicle Loan,Self-Owned,28,0
+30,male,Skilled Employee,88988,16718,750,153450,Consumer Durable Loan,Family-Owned,24,0
+30,male,Skilled Employee,55934,19458,848,87000,Consumer Durable Loan,Rented,6,0
+47,male,Skilled Employee,78197,15521,636,117650,Vehicle Loan,Self-Owned,21,1
+29,male,Skilled Employee,81844,18549,739,177800,Vehicle Loan,Self-Owned,15,0
+35,male,Skilled Employee,76332,33127,574,119850,Consumer Durable Loan,Self-Owned,24,1
+22,male,Unskilled Resident,16389,5212,554,22700,Home Renovation Loan,Self-Owned,6,1
+26,female,Skilled Employee,51593,19358,713,85750,Consumer Durable Loan,Self-Owned,30,0
+23,male,Unskilled Resident,22274,7069,763,126000,Consumer Durable Loan,Self-Owned,27,0
+54,female,Highly Skilled,151665,47888,850,178400,Consumer Durable Loan,Rented,15,0
+29,male,Skilled Employee,89976,16037,900,358300,Consumer Durable Loan,Rented,42,0
+40,male,Unskilled Resident,33649,8516,825,196950,Vehicle Loan,Self-Owned,11,0
+22,male,Skilled Employee,57320,13454,778,75700,Home Renovation Loan,Self-Owned,15,0
+43,male,Unskilled Resident,42376,11323,732,369650,Vehicle Loan,Self-Owned,24,0
+29,female,Unskilled,25745,10027,597,59650,Vehicle Loan,Rented,24,1
+36,male,Skilled Employee,95554,24994,708,364850,Business Loan,Rented,60,0
+33,female,Skilled Employee,54199,15474,823,141550,Consumer Durable Loan,Self-Owned,30,0
+57,female,Unskilled Resident,35229,9484,791,62900,Consumer Durable Loan,Self-Owned,24,1
+64,female,Skilled Employee,55876,9947,617,37650,Consumer Durable Loan,Self-Owned,6,1
+42,male,Skilled Employee,90948,25676,769,121350,Business Loan,Self-Owned,18,0
+47,male,Unskilled Resident,23245,4850,762,126900,Vehicle Loan,Self-Owned,24,0
+25,male,Skilled Employee,47214,9726,747,63200,Vehicle Loan,Rented,15,0
+49,male,Skilled Employee,40726,7257,717,419300,Consumer Durable Loan,Self-Owned,30,0
+33,male,Highly Skilled,136600,35106,773,242200,Business Loan,Rented,48,0
+28,female,Highly Skilled,166898,62961,775,146150,Vehicle Loan,Self-Owned,21,0
+26,male,Skilled Employee,58297,13579,668,411450,Vehicle Loan,Self-Owned,36,0
+30,male,Unskilled Resident,41172,10033,756,101400,Consumer Durable Loan,Self-Owned,24,1
+25,female,Skilled Employee,82874,28409,704,71650,Consumer Durable Loan,Rented,15,0
+33,male,Skilled Employee,47657,9948,601,314450,Business Loan,Self-Owned,42,0
+64,female,Skilled Employee,58850,24663,675,70450,Consumer Durable Loan,Self-Owned,13,0
+29,male,Highly Skilled,115425,35326,594,328950,Vehicle Loan,Family-Owned,24,1
+48,male,Unskilled Resident,41685,11850,798,87150,Consumer Durable Loan,Self-Owned,24,0
+37,male,Unskilled Resident,38696,12280,748,178250,Education Loan,Self-Owned,12,0
+34,male,Unskilled Resident,29551,5904,691,78450,Consumer Durable Loan,Self-Owned,15,0
+23,male,Unskilled Resident,39578,13220,833,96800,Consumer Durable Loan,Rented,18,0
+30,male,Highly Skilled,118831,30768,725,197950,Consumer Durable Loan,Self-Owned,36,0
+50,male,Skilled Employee,47906,20080,605,119500,Vehicle Loan,Self-Owned,12,1
+31,female,Unskilled Resident,43645,8757,684,86800,Consumer Durable Loan,Self-Owned,12,0
+40,male,Highly Skilled,144028,43513,850,192850,Vehicle Loan,Self-Owned,30,0
+38,male,Skilled Employee,47287,15577,666,40200,Consumer Durable Loan,Self-Owned,12,0
+23,male,Skilled Employee,73660,11786,742,92250,Consumer Durable Loan,Family-Owned,45,0
+27,male,Skilled Employee,50222,13012,779,228800,Vehicle Loan,Self-Owned,45,1
