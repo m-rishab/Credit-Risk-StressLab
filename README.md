@@ -17,27 +17,11 @@ Credit Risk StressLab is an interactive, explainable, AI-powered credit risk ass
 ## 📊 Architecture
 
 ```mermaid
-graph TD
-    A[React Frontend] -->|Sliders / Scenarios Changed| B[Debounced API Call /predict]
-    B -->|JSON Payload| C[Flask Backend: app.py]
-
-    subgraph Python ML Pipeline
-        C --> D[Pandas DataFrame]
-        D --> E[One-Hot Encoder]
-        E --> F[XGBoost Model]
-        F --> G[Default Probability & Decision]
-        F --> H[SHAP TreeExplainer]
-    end
-
-    subgraph Generative AI Engine
-        G & H --> I[NVIDIA NIM Llama 3.1 API]
-        I --> J[Multilingual Text Explanation]
-    end
-
-    J --> K[React App Render]
-    K --> L[Risk Gauge]
-    K --> M[SHAP Waterfall & Bar Charts]
-    K --> N[Chat Advisor Endpoint /chat]
+graph LR
+    A[React UI] --> B[Flask /predict]
+    B --> C[XGBoost + SHAP]
+    C --> D[Llama 3.1 via NVIDIA NIM]
+    D --> E[Gauge, Charts & Chat]
 ```
 
 ---
