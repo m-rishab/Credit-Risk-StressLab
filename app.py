@@ -18,6 +18,12 @@ if os.path.exists('.env'):
 
 app = Flask(__name__)
 
+@app.route('/health')
+def health():
+    """Simple healthcheck endpoint for Railway"""
+    return jsonify({"status": "ok"}), 200
+
+
 # ---------------------------------------------------------
 # 1. Load Model & Preprocessor ONCE (When server starts)
 # ---------------------------------------------------------
@@ -113,7 +119,6 @@ def predict():
             "No markdown formatting."
         )
 
-        ai_explanation = 'Analyzing...'
         try:
             ai_response = nvidia_client.chat.completions.create(
                 model=AI_MODEL,
@@ -123,8 +128,9 @@ def predict():
                 timeout=5.0
             )
             ai_explanation = ai_response.choices[0].message.content
-        except Exception:
-            ai_explanation = 'AI analysis unavailable'
+        except Exception as e:
+            print(f"AI explanation error: {e}")
+            ai_explanation = f'AI analysis unavailable (default probability: {round(default_prob*100, 1)}%)'
 
         # 8. Return JSON response to JavaScript
         return jsonify({
@@ -168,18 +174,24 @@ def chat():
         for msg in history:
             messages.append({"role": msg["role"], "content": msg["content"]})
             
-        ai_response = nvidia_client.chat.completions.create(
-            model=AI_MODEL,
-            messages=messages,
-            temperature=0.7,
-            max_tokens=150,
-            timeout=5.0
-        )
-        reply = ai_response.choices[0].message.content
+        try:
+            ai_response = nvidia_client.chat.completions.create(
+                model=AI_MODEL,
+                messages=messages,
+                temperature=0.7,
+                max_tokens=150,
+                timeout=5.0
+            )
+            reply = ai_response.choices[0].message.content
+        except Exception as e:
+            print(f"AI chat error: {e}")
+            reply = "AI chat unavailable at the moment."
         return jsonify({"status": "success", "reply": reply})
     except Exception as e:
         return jsonify({"status": "error", "message": str(e)})
 
 if __name__ == '__main__':
     # Run Flask on port 5001
-    app.run(debug=True, port=5001)
+    # For production, use: gunicorn -w 4 -b 0.0.0.0:5001 app:app
+    debug_mode = os.getenv('FLASK_DEBUG', 'False').lower() == 'true'
+    app.run(debug=debug_mode, port=5001, host='0.0.0.0')
