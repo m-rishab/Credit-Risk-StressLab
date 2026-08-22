@@ -2,9 +2,11 @@
 
 Credit Risk StressLab is an interactive, explainable, AI-powered credit risk assessment and economic stress-testing platform. It combines **XGBoost**, **SHAP (SHapley Additive exPlanations)**, and **NVIDIA NIM-hosted Llama 3.1 GenAI** to deliver transparent, human-readable, multilingual credit risk insights in real time.
 
+🔗 **Live Demo:** [credit-risk-stresslab-production.up.railway.app](https://credit-risk-stresslab-production.up.railway.app)
+
 ---
 
-##  Features
+## Features
 
 - **Explainable AI (SHAP)** — For every prediction, SHAP values show the exact contribution of each factor (e.g., CIBIL score, monthly income), turning the model into a transparent, auditable decision instead of a black box.
 - **Economic Stress Testing** — Simulate macroeconomic scenarios (inflation, recession, job loss) and instantly see how applicant risk changes.
@@ -14,7 +16,7 @@ Credit Risk StressLab is an interactive, explainable, AI-powered credit risk ass
 
 ---
 
-## 📊 Architecture
+##  Architecture
 
 ```mermaid
 graph TD
