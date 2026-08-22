@@ -194,4 +194,10 @@ if __name__ == '__main__':
     # Run Flask on port 5001
     # For production, use: gunicorn -w 4 -b 0.0.0.0:5001 app:app
     debug_mode = os.getenv('FLASK_DEBUG', 'False').lower() == 'true'
-    app.run(debug=debug_mode, port=5001, host='0.0.0.0')
+    app.run(
+        debug=debug_mode, 
+        port=5001, 
+        host='0.0.0.0',
+        use_reloader=False,  # Disable reloader in container
+        threaded=True  # Enable threading for concurrent requests
+    )
